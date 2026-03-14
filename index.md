@@ -6,7 +6,7 @@ title: Home
 <div class="home-grid">
 <div class="home-bio">
 
-I am an *Associate Professor* at the **Department of Mathematics** at **Tufts University**. On this page you can find information about my [research](research/) and the [classes I teach](teaching/).
+I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](research/) and the [classes I teach](teaching/).
 
 </div>
 <div class="home-photo">
@@ -23,8 +23,8 @@ I am an *Associate Professor* at the **Department of Mathematics** at **Tufts Un
 | **Name** | Andreas Mang &ensp; [/an'dre:as mang/] |
 | **Group** | Numerical Analysis and Scientific Computing |
 | **Department** | Department of Mathematics |
-| **University** | Tufts University |
-| **Email** | andreas.mang@tufts.edu |
+| **University** | University of Houston |
+| **Email** | andreas@math.uh.edu |
 | **Office** | TBD |
 
 ### Research Interests
