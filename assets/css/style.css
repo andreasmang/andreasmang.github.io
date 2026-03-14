@@ -1,0 +1,593 @@
+/* ==========================================================================
+   Andreas Mang - Academic Website
+   Dark theme stylesheet
+   ========================================================================== */
+
+/* ---------- Reset & Base ---------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 16px;
+  line-height: 1.7;
+  color: #e0e0e0;
+  background-color: #1a1a2e;
+}
+
+/* ---------- Typography ---------- */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f0f0;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.05rem; }
+
+p {
+  margin-bottom: 1em;
+}
+
+a {
+  color: #4ec9b0;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover,
+a:focus {
+  color: #7eddc6;
+  text-decoration: underline;
+}
+
+strong { color: #f0f0f0; }
+
+/* ---------- Navbar ---------- */
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: rgba(13, 13, 26, 0.95);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-bottom: 1px solid rgba(78, 201, 176, 0.15);
+}
+
+.nav-container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.25rem;
+  height: 54px;
+}
+
+.nav-brand {
+  display: flex;
+  align-items: center;
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: #f0f0f0;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.brand-link:hover {
+  color: #4ec9b0;
+  text-decoration: none;
+}
+
+.brand-icon {
+  border-radius: 4px;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 0.15rem;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.4rem 0.65rem;
+  color: #c0c0d0;
+  font-size: 0.88rem;
+  border-radius: 4px;
+  transition: color 0.2s ease, background-color 0.2s ease;
+  text-decoration: none;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #ffffff;
+  background-color: rgba(78, 201, 176, 0.1);
+  text-decoration: none;
+}
+
+.nav-link.active {
+  color: #4ec9b0;
+  background-color: rgba(78, 201, 176, 0.12);
+}
+
+/* Hamburger toggle */
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  margin-left: auto;
+}
+
+.hamburger-line {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #e0e0e0;
+  margin: 4px 0;
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.nav-toggle.is-active .hamburger-line:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.nav-toggle.is-active .hamburger-line:nth-child(2) {
+  opacity: 0;
+}
+
+.nav-toggle.is-active .hamburger-line:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+/* ---------- Hero Banner ---------- */
+
+.hero-banner {
+  position: relative;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #0d0d1a;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(13, 13, 26, 0.65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-content {
+  text-align: center;
+  padding: 1rem;
+}
+
+.hero-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 0.3rem;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.hero-subtitle {
+  font-size: 1.1rem;
+  color: #d0d0e0;
+  margin: 0;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* ---------- Main Content ---------- */
+
+.site-content {
+  min-height: calc(100vh - 54px - 250px - 120px);
+}
+
+.content-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Card-style content sections */
+
+.content-container > section,
+.content-card {
+  background-color: #212135;
+  border-radius: 8px;
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(78, 201, 176, 0.08);
+}
+
+/* ---------- Two-Column Layout (Home Page) ---------- */
+
+.two-column,
+.home-grid {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.two-column .col-photo,
+.home-grid .home-photo {
+  flex: 0 0 220px;
+}
+
+.two-column .col-photo img,
+.home-grid .home-photo img,
+img.profile-img {
+  width: 100%;
+  border-radius: 8px;
+  border: 2px solid rgba(78, 201, 176, 0.2);
+}
+
+.two-column .col-bio,
+.home-grid .home-bio {
+  flex: 1;
+}
+
+/* ---------- Lists ---------- */
+
+ul, ol {
+  margin-left: 1.4rem;
+  margin-bottom: 1em;
+}
+
+li {
+  margin-bottom: 0.35em;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+/* ---------- Collapsible Sections (details/summary) ---------- */
+
+details {
+  background-color: #212135;
+  border: 1px solid rgba(78, 201, 176, 0.12);
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+details > summary {
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #f0f0f0;
+  background-color: rgba(78, 201, 176, 0.06);
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background-color 0.2s ease;
+}
+
+details > summary:hover {
+  background-color: rgba(78, 201, 176, 0.12);
+}
+
+details > summary::before {
+  content: "\25B6";
+  font-size: 0.7rem;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > .details-content,
+details > :not(summary) {
+  padding: 0.75rem 1rem;
+}
+
+/* ---------- Tables ---------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.92rem;
+}
+
+thead th {
+  background-color: #0d0d1a;
+  color: #f0f0f0;
+  text-align: left;
+  padding: 0.65rem 0.75rem;
+  border-bottom: 2px solid rgba(78, 201, 176, 0.25);
+  font-weight: 600;
+}
+
+tbody td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgba(33, 33, 53, 0.6);
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(26, 26, 46, 0.6);
+}
+
+tbody tr:hover {
+  background-color: rgba(78, 201, 176, 0.06);
+}
+
+/* ---------- Images ---------- */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.88rem;
+  color: #a0a0b8;
+  margin-top: 0.5rem;
+}
+
+/* ---------- Blockquotes ---------- */
+
+blockquote {
+  border-left: 3px solid #4ec9b0;
+  margin: 1.2rem 0;
+  padding: 0.6rem 1rem;
+  color: #c0c0d0;
+  background-color: rgba(78, 201, 176, 0.04);
+  border-radius: 0 6px 6px 0;
+}
+
+/* ---------- Code ---------- */
+
+code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.88em;
+  background-color: rgba(255, 255, 255, 0.06);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+pre {
+  background-color: #0d0d1a;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* ---------- Horizontal Rule ---------- */
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 2rem 0;
+}
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  background-color: #0d0d1a;
+  border-top: 1px solid rgba(78, 201, 176, 0.15);
+  padding: 1.5rem 1rem;
+  text-align: center;
+}
+
+.footer-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.footer-link {
+  color: #a0a0b8;
+  transition: color 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+}
+
+.footer-link:hover {
+  color: #4ec9b0;
+  text-decoration: none;
+}
+
+.footer-copyright {
+  font-size: 0.82rem;
+  color: #6a6a82;
+  margin: 0;
+}
+
+/* ---------- Utility Classes ---------- */
+
+.text-center { text-align: center; }
+.text-muted  { color: #a0a0b8; }
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+
+/* ---------- Responsive ---------- */
+
+@media screen and (max-width: 768px) {
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav-menu {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 54px;
+    left: 0;
+    right: 0;
+    background-color: rgba(13, 13, 26, 0.97);
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(78, 201, 176, 0.15);
+  }
+
+  .nav-menu.is-open {
+    display: flex;
+  }
+
+  .nav-link {
+    padding: 0.6rem 1.25rem;
+    font-size: 0.95rem;
+  }
+
+  .navbar {
+    position: relative;
+  }
+
+  .hero-banner {
+    height: 200px;
+  }
+
+  .hero-title {
+    font-size: 1.6rem;
+  }
+
+  .hero-subtitle {
+    font-size: 0.95rem;
+  }
+
+  .two-column,
+  .home-grid {
+    flex-direction: column;
+  }
+
+  .two-column .col-photo,
+  .home-grid .home-photo {
+    flex: none;
+    width: 180px;
+    margin: 0 auto;
+  }
+
+  .content-container {
+    padding: 1.25rem 1rem;
+  }
+
+  table {
+    font-size: 0.82rem;
+  }
+
+  thead th,
+  tbody td {
+    padding: 0.45rem 0.5rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  h1 { font-size: 1.4rem; }
+  h2 { font-size: 1.2rem; }
+
+  .hero-banner {
+    height: 170px;
+  }
+
+  .hero-title {
+    font-size: 1.35rem;
+  }
+}
+
+/* ---------- Print ---------- */
+
+@media print {
+  body {
+    background: #fff;
+    color: #111;
+    font-size: 12pt;
+  }
+
+  .navbar,
+  .hero-banner,
+  .site-footer {
+    display: none;
+  }
+
+  .site-content {
+    min-height: auto;
+  }
+
+  .content-container {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .content-container > section,
+  .content-card,
+  details {
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  a {
+    color: #111;
+    text-decoration: underline;
+  }
+
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #555;
+  }
+}

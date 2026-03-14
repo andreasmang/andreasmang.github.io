@@ -1,0 +1,22 @@
+title: Andreas Mang
+description: Associate Professor, Department of Mathematics, Tufts University
+url: "https://andreasmang.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

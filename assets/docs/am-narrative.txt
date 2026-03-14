@@ -1,0 +1,13 @@
+Andreas Mang is an Associate Professor at the Department of Mathematics of
+the University of Houston. He received his PhD from the University of
+Luebeck (DE) in 2013. Subsequently, he joined the Oden Institute for
+Computational Engineering and Sciences at The University of Texas at
+Austin (US) in 2013 for a postdoctoral fellowship. In 2017, he joined
+the Department of Mathematics at the University of Houston, where he
+currently holds a position as an Associate Professor of Mathematics.
+His research interests include statistical and deterministic inverse
+problems, nonlinear optimal control, numerical optimization, data-enabled
+sciences, and parallel scientific computing. He works on the design,
+analysis, and deployment of effective numerical methods and parallel
+algorithms that deliver optimal performance and scale on high-performance
+computing platforms. In 2022, he received the NSF CAREER award.

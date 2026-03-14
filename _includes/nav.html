@@ -1,0 +1,39 @@
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="nav-container">
+    <div class="nav-brand">
+      <a href="{{ '/' | relative_url }}" class="brand-link">
+        <img src="{{ '/assets/images/favicon.ico' | relative_url }}" alt="" class="brand-icon" width="28" height="28">
+        <span class="brand-text">Andreas Mang</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+    </div>
+    <ul class="nav-menu">
+      <li><a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a></li>
+      <li><a href="{{ '/research/' | relative_url }}" class="nav-link {% if page.url contains '/research' %}active{% endif %}">Research</a></li>
+      <li><a href="{{ '/teaching/' | relative_url }}" class="nav-link {% if page.url contains '/teaching' %}active{% endif %}">Teaching</a></li>
+      <li><a href="{{ '/publications/' | relative_url }}" class="nav-link {% if page.url contains '/publications' %}active{% endif %}">Publications</a></li>
+      <li><a href="{{ '/programs/' | relative_url }}" class="nav-link {% if page.url contains '/programs' %}active{% endif %}">Programs</a></li>
+      <li><a href="{{ '/vitae/' | relative_url }}" class="nav-link {% if page.url contains '/vitae' %}active{% endif %}">Vitae</a></li>
+      <li><a href="{{ '/seminars/' | relative_url }}" class="nav-link {% if page.url contains '/seminars' %}active{% endif %}">Seminars</a></li>
+    </ul>
+  </div>
+</nav>
+
+<script>
+(function() {
+  var toggle = document.querySelector('.nav-toggle');
+  var menu = document.querySelector('.nav-menu');
+  if (toggle && menu) {
+    toggle.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      menu.classList.toggle('is-open');
+      this.classList.toggle('is-active');
+    });
+  }
+})();
+</script>
