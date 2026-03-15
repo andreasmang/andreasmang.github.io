@@ -291,7 +291,7 @@ details {
 details > summary {
   padding: 0.75rem 1rem;
   cursor: pointer;
-  font-weight: 600;
+  font-weight: normal;
   color: #f0f0f0;
   background-color: rgba(49, 114, 174, 0.06);
   list-style: none;
