@@ -29,15 +29,15 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 <a href="https://orcid.org/0000-0003-1844-3013" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.847-1.238-3.722-3.806-3.722h-2.513z"/></svg> ORCID</a>
 </div>
 
-### Research Interests
-
-The goal of my research is the development, analysis, and deployment of computational and mathematical methods that integrate *data* with *simulation* and *optimization* with the aspiration to support *decision making* in challenging problems in the applied sciences.
-
 </div>
 <div class="home-photo">
 <img src="/assets/images/profile-home.jpg" alt="Andreas Mang" class="profile-img">
 </div>
 </div>
+
+### Research Interests
+
+The goal of my research is the development, analysis, and deployment of computational and mathematical methods that integrate *data* with *simulation* and *optimization* with the aspiration to support *decision making* in challenging problems in the applied sciences.
 
 ## News
 
@@ -57,13 +57,22 @@ I have research projects for graduate and undergraduate students. Undergraduate 
 
 I do **not** have any positions or financial support for *research or teaching assistants* for students that are **not enrolled in our PhD program**. Please **refrain from sending me any requests**. I generally do **not respond** to emails enquiring for these types of positions due to the volume of requests I receive.
 
-## Outreach
-
-I am a faculty adviser for the [Texas Theta Chapter](https://www.math.uh.edu/PME) of [Pi Mu Epsilon](http://pme-math.org) (PME). Information about joining PME can be found [here](https://www.math.uh.edu/PME/membership.html).
-
 ## Letter of Recommendation Requests
 
-If you want me to write a letter of recommendation (LOR) for you, please reach out via email to expedite the process.
+Letters of recommendation take time. Please allow **at least one week** to complete your request. This may take longer depending on the volume of requests received. To expedite the process, please email me with the following information:
+
+1. Your **name** and **email address**
+2. **Due date** for the letter
+3. **Year in school** and **intended major**
+4. **Purpose** of the letter (e.g., graduate school admission, scholarship, award, job application)
+5. **How do you know me?** Which of my courses did you take and when?
+6. **How long** have we known each other?
+7. Your **future plans and goals**
+8. Relevant **organizations, clubs, activities**, and any **leadership roles**
+9. Any **accomplishments, honors, or awards**
+10. Your **resume/CV** (attached as PDF)
+
+Please include all of this in a **single email** to avoid unnecessary back-and-forth.
 
 ## Older News
 
