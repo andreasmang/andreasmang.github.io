@@ -33,8 +33,6 @@ University of Houston, December 8-12, 2025
 
 NSF Award DMS-2430460
 
-![CBMS AMML Logo](assets/images/cbms-logo.png){: .program-logo }
-
 This NSF/CBMS Regional Research Conference focuses on research at the interface of applied mathematics and machine learning. The conference features a distinguished lecturer series alongside contributed talks and poster sessions, aiming to introduce researchers and students to cutting-edge developments at this important interface.
 
 ---
@@ -46,8 +44,6 @@ This NSF/CBMS Regional Research Conference focuses on research at the interface 
 NSF Award DMS-2145845
 
 [Summer school webpage](https://andreasmang.github.io/chameleonline/)
-
-![ChAMELEON Logo](assets/images/chameleon-logo.png){: .program-logo }
 
 The ChAMELEON summer school provides training in computational and mathematical methods in machine learning, optimization, and inference. It is designed for graduate students and early-career researchers seeking to deepen their understanding of the mathematical foundations underlying modern data science and scientific computing methodologies.
 

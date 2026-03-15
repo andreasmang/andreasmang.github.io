@@ -185,7 +185,7 @@ strong { color: #f0f0f0; }
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(10, 22, 40, 0.65);
+  background: rgba(10, 22, 40, 0.5);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -194,21 +194,35 @@ strong { color: #f0f0f0; }
 .hero-content {
   text-align: center;
   padding: 1rem;
+  animation: fadeInUp 0.8s ease-out;
 }
 
 .hero-title {
-  font-size: 2.2rem;
+  font-size: 3rem;
   font-weight: 700;
   color: #ffffff;
-  margin: 0 0 0.3rem;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  margin: 0 0 0.4rem;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.04em;
 }
 
 .hero-subtitle {
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   color: #d0d0e0;
   margin: 0;
-  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+  letter-spacing: 0.02em;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* ---------- Main Content ---------- */
@@ -602,6 +616,31 @@ hr {
   color: #b48ec2;
 }
 
+/* ---------- Publication Links ---------- */
+
+li a[href*="doi.org"],
+li a[href*="arxiv.org"],
+li a[href*="arxiv:"] {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  border: 1px solid rgba(49, 114, 174, 0.3);
+  color: #4a9ad4;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  margin-left: 0.1rem;
+}
+
+li a[href*="doi.org"]:hover,
+li a[href*="arxiv.org"]:hover,
+li a[href*="arxiv:"]:hover {
+  background-color: rgba(49, 114, 174, 0.15);
+  color: #ffffff;
+  text-decoration: none;
+}
+
 /* ---------- Back to Top ---------- */
 
 .back-to-top {
@@ -682,11 +721,11 @@ hr {
   }
 
   .hero-title {
-    font-size: 1.6rem;
+    font-size: 2rem;
   }
 
   .hero-subtitle {
-    font-size: 0.95rem;
+    font-size: 1rem;
   }
 
   .two-column,
@@ -724,7 +763,11 @@ hr {
   }
 
   .hero-title {
-    font-size: 1.35rem;
+    font-size: 1.6rem;
+  }
+
+  .hero-subtitle {
+    font-size: 0.9rem;
   }
 }
 
