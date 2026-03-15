@@ -456,6 +456,40 @@ hr {
   margin: 0;
 }
 
+/* ---------- News Items ---------- */
+
+.news-list {
+  list-style: none;
+  margin-left: 0;
+  padding: 0;
+}
+
+.news-list li {
+  display: flex;
+  gap: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  margin-bottom: 0;
+}
+
+.news-list li:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  flex: 0 0 5.5rem;
+  font-size: 0.85rem;
+  color: #3172AE;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  padding-top: 0.1rem;
+  white-space: nowrap;
+}
+
+.news-text {
+  flex: 1;
+}
+
 /* ---------- Utility Classes ---------- */
 
 .text-center { text-align: center; }

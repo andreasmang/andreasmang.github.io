@@ -35,13 +35,15 @@ The goal of my research is the development, analysis, and deployment of computat
 
 ## News
 
-- **02/2026** -- Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL
-- **01/2026** -- Talk in CMOR Colloquium Series at Rice University, March 30, 2026
-- **01/2026** -- Virtual talk at HPE Data Science Institute, UH, February 26, 2026
-- **11/2025** -- Co-organizing mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026
-- **10/2025** -- Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026
-- **10/2025** -- Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 - April 24, 2026
-- **10/2025** -- Co-organizing workshop at Casa Matematica Oaxaca, May 31 - June 5, 2026
+<ul class="news-list">
+<li><span class="news-date">02/2026</span><span class="news-text">Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL</span></li>
+<li><span class="news-date">01/2026</span><span class="news-text">Talk in CMOR Colloquium Series at Rice University, March 30, 2026</span></li>
+<li><span class="news-date">01/2026</span><span class="news-text">Virtual talk at HPE Data Science Institute, UH, February 26, 2026</span></li>
+<li><span class="news-date">11/2025</span><span class="news-text">Co-organizing mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
+<li><span class="news-date">10/2025</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026</span></li>
+<li><span class="news-date">10/2025</span><span class="news-text">Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 &ndash; April 24, 2026</span></li>
+<li><span class="news-date">10/2025</span><span class="news-text">Co-organizing workshop at Casa Matem&aacute;tica Oaxaca, May 31 &ndash; June 5, 2026</span></li>
+</ul>
 
 ## Open Positions and Academic Advising
 
