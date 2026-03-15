@@ -9,6 +9,7 @@ I am a member of the Numerical Analysis & Scientific Computing group. I am the h
 
 My key research areas include:
 
+- machine learning and data science 
 - scientific computing and numerical methods
 - numerical optimization and variational techniques
 - nonlinear optimal control
