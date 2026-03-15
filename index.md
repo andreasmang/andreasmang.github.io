@@ -10,7 +10,7 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 
 </div>
 <div class="home-photo">
-<img src="assets/images/profile-home.jpg" alt="Andreas Mang" class="profile-img">
+<img src="/assets/images/profile-home.jpg" alt="Andreas Mang" class="profile-img">
 </div>
 </div>
 

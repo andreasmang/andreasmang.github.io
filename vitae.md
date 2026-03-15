@@ -48,7 +48,7 @@ title: Vitae
 <h3>Documents</h3>
 
 <ul>
-  <li><a href="assets/docs/andreas-mang-cv.pdf">Short Curriculum Vitae (PDF)</a></li>
+  <li><a href="/assets/docs/andreas-mang-cv.pdf">Short Curriculum Vitae (PDF)</a></li>
   <li><a href="publications/">Publications</a></li>
 </ul>
 
@@ -128,7 +128,7 @@ title: Vitae
 </div>
 
 <div class="home-photo">
-  <img src="assets/images/profile.jpg" alt="Andreas Mang" class="profile-img">
+  <img src="/assets/images/profile.jpg" alt="Andreas Mang" class="profile-img">
 </div>
 
 </div>
