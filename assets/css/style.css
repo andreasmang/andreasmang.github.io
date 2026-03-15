@@ -616,31 +616,6 @@ hr {
   color: #b48ec2;
 }
 
-/* ---------- Publication Links ---------- */
-
-li a[href*="doi.org"],
-li a[href*="arxiv.org"],
-li a[href*="arxiv:"] {
-  display: inline-block;
-  font-size: 0.78rem;
-  font-weight: 600;
-  padding: 0.15em 0.5em;
-  border-radius: 3px;
-  border: 1px solid rgba(49, 114, 174, 0.3);
-  color: #4a9ad4;
-  text-decoration: none;
-  transition: background-color 0.2s ease, color 0.2s ease;
-  margin-left: 0.1rem;
-}
-
-li a[href*="doi.org"]:hover,
-li a[href*="arxiv.org"]:hover,
-li a[href*="arxiv:"]:hover {
-  background-color: rgba(49, 114, 174, 0.15);
-  color: #ffffff;
-  text-decoration: none;
-}
-
 /* ---------- Back to Top ---------- */
 
 .back-to-top {
