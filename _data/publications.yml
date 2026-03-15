@@ -1,26 +1,44 @@
-# Preprints
+# Sorted by year (newest first)
+
+- title: "Fast k-means clustering in Riemannian manifolds via Frechet maps: Applications to large-dimensional SPD matrices"
+  authors: "with Ji Shi, Nicolas Charon, Demetrio Labate & Robert Azencott"
+  venue: ""
+  year: 2025
+  arxiv: "https://arxiv.org/abs/2511.08993"
+  category: "preprint"
+
+- title: "VPreg: An optimal control formulation for diffeomorphic image registration based on the variational principle grid generation method"
+  authors: "with Zhongjie Zhou, Bao Zhao & Guojun Liao"
+  venue: ""
+  year: 2025
+  arxiv: "https://arxiv.org/abs/2510.13109"
+  category: "preprint"
+
 - title: "A unified framework for lifted training and inversion approaches"
   authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
   venue: ""
+  year: 2025
   arxiv: "https://doi.org/10.48550/arXiv.2510.09796"
   category: "preprint"
 
 - title: "A generalized alternating NGMRES method for PDE-constrained optimization problems governed by transport equations"
   authors: "with Yunhui He"
   venue: ""
+  year: 2025
   arxiv: "https://doi.org/10.48550/arXiv.2510.08782"
   category: "preprint"
 
 - title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
   authors: "with German Villalobos & Johann Rudi"
   venue: ""
+  year: 2025
   arxiv: "https://doi.org/10.48550/arXiv.2510.14197"
   category: "preprint"
 
-# Journal Articles
 - title: "Rare events analysis and computation for stochastic evolution of bacterial populations"
   authors: "with Yingxue Su, Brett Geiger, Ilya Timofeyev & Robert Azencott"
   venue: "Stochastic Analysis and Applications, 2025"
+  year: 2025
   doi: "https://doi.org/10.1080/07362994.2024.2422913"
   arxiv: "https://arxiv.org/abs/2308.14135"
   category: "journal"
@@ -28,116 +46,31 @@
 - title: "Classification of Deformable Smooth Shapes Through Geodesic Flows of Diffeomorphisms"
   authors: "with Hossein Dabirian, Radmir Sultamuratov, James Herring, Carlos El Tallawi, William Zoghbi & Robert Azencott"
   venue: "Journal of Mathematical Imaging and Vision, 2024"
+  year: 2024
   doi: "https://doi.org/10.1007/s10851-024-01211-z"
   arxiv: "https://doi.org/10.48550/arXiv.2211.02530"
   category: "journal"
 
+- title: "CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D"
+  authors: ""
+  venue: "Explorations in the Mathematics of Data Science. Applied and Numerical Harmonic Analysis, 167-215, 2024"
+  year: 2024
+  doi: "https://doi.org/10.1007/978-3-031-66497-7_8"
+  arxiv: "https://doi.org/10.48550/arXiv:2401.17493"
+  category: "bookchapter"
+
 - title: "An operator-splitting approach for variational optimal control formulations for diffeomorphic shape matching"
   authors: "with Jiwen He & Robert Azencott"
   venue: "Journal of Computational Physics, 493:112463, 2023"
+  year: 2023
   doi: "https://doi.org/10.1016/j.jcp.2023.112463"
   arxiv: "https://doi.org/10.48550/arXiv.2307.10114"
   category: "journal"
 
-- title: "Diffeomorphic Shape Matching by Operator Splitting in 3D Cardiology Imaging"
-  authors: "with P Zhang, J He, R Azencott, KC El-Tallawi & WA Zoghbi"
-  venue: "Journal of Optimization Theory and Applications, 188(1):143-168, 2021"
-  doi: "https://doi.org/10.1007/s10957-020-01789-5"
-  arxiv: "https://doi.org/10.48550/arXiv.2011.10165"
-  category: "journal"
-
-- title: "CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures"
-  authors: "with M. Brunn, N. Himthani, G. Biros & M. Mehl"
-  venue: "Journal of Open Source Software, 6(61):3038, 2021"
-  doi: "https://doi.org/10.21105/joss.03038"
-  category: "journal"
-
-- title: "Fast GPU 3D diffeomorphic image registration"
-  authors: "with Malte Brunn, Naveen Himthani, George Biros & Miriam Mehl"
-  venue: "Journal of Parallel and Distributed Computing, 149:149-162, 2021"
-  doi: "https://doi.org/10.1016/j.jpdc.2020.11.006"
-  arxiv: "https://arxiv.org/abs/2004.08893"
-  category: "journal"
-
-- title: "Integrated biophysical modeling and image analysis: Application to neuro-oncology"
-  authors: "with Spyridon Bakas, Shashank Subramanian, Christos Davatzikos & George Biros"
-  venue: "Annual Reviews in Biomedical Engineering, 22:309-341, 2020"
-  doi: "https://doi.org/10.1146/annurev-bioeng-062117-121105"
-  arxiv: "https://arxiv.org/abs/2002.09628"
-  category: "journal"
-
-- title: "Image-driven biophysical tumor growth model calibration"
-  authors: "with Klaudius Scheufele, Shashank Subramanian, George Biros & Miriam Mehl"
-  venue: "SIAM Journal on Scientific Computing, 42(3):B549-B580, 2020"
-  doi: "http://dx.doi.org/10.1137/19M1275280"
-  arxiv: "https://arxiv.org/abs/1907.07774"
-  category: "journal"
-
-- title: "CLAIRE: A distributed-memory solver for constrained large deformation diffeomorphic image registration"
-  authors: "with Amir Gholami, Christos Davatzikos & George Biros"
-  venue: "SIAM Journal on Scientific Computing, 41(5):C548-C584, 2019"
-  doi: "https://doi.org/10.1137/18M1207818"
-  arxiv: "https://arxiv.org/abs/1808.04487"
-  category: "journal"
-
-- title: "Coupling brain-tumor biophysical models and diffeomorphic image registration"
-  authors: "with Klaudius Scheufele, Amir Gholami, Christos Davatzikos, George Biros & Miriam Mehl"
-  venue: "Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019"
-  doi: "https://doi.org/10.1016/j.cma.2018.12.008"
-  arxiv: "https://arxiv.org/abs/1710.06420"
-  category: "journal"
-
-- title: "PDE-constrained optimization in medical image analysis"
-  authors: "with Amir Gholami, Christos Davatzikos & George Biros"
-  venue: "Optimization and Engineering, 19:765-812, 2018"
-  doi: "https://doi.org/10.1007/s11081-018-9390-9"
-  arxiv: "https://doi.org/10.48550/arXiv.1803.00058"
-  category: "journal"
-
-- title: "A Lagrangian Gauss-Newton-Krylov solver for intensity- and mass-preserving diffeomorphic image registration"
-  authors: "with Lars Ruthotto"
-  venue: "SIAM Journal on Scientific Computing, 39(5):B860-B885, 2017"
-  doi: "https://doi.org/10.1137/17M1114132"
-  arxiv: "http://arxiv.org/abs/1703.04446"
-  category: "journal"
-
-- title: "A semi-Lagrangian two-level preconditioned Newton-Krylov solver for constrained diffeomorphic image registration"
-  authors: "with George Biros"
-  venue: "SIAM Journal on Scientific Computing, 39(6):B1064-B1101, 2017"
-  doi: "https://doi.org/10.1137/16M1070475"
-  arxiv: "https://doi.org/10.48550/arXiv.1604.02153"
-  category: "journal"
-
-- title: "Constrained H1 regularization schemes for diffeomorphic image registration"
-  authors: "with George Biros"
-  venue: "SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016"
-  doi: "https://doi.org/10.1137/15M1010919"
-  arxiv: "http://arxiv.org/abs/1503.00757"
-  category: "journal"
-
-- title: "An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas"
-  authors: "with Amir Gholami & George Biros"
-  venue: "Journal of Mathematical Biology, 72(1):409-433, 2016"
-  doi: "https://doi.org/10.1007/s00285-015-0888-x"
-  arxiv: "http://arxiv.org/abs/1408.6221"
-  category: "journal"
-
-- title: "An inexact Newton-Krylov algorithm for constrained diffeomorphic image registration"
-  authors: "with George Biros"
-  venue: "SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015"
-  doi: "https://doi.org/10.1137/140984002"
-  arxiv: "http://arxiv.org/abs/1408.6299"
-  category: "journal"
-
-- title: "Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the BRATS challenge"
-  authors: "with Spyridon Bakas, Mauricio Reyes, Andras Jakab et al."
-  venue: "arXiv:1811.02629, 2019"
-  arxiv: "https://arxiv.org/abs/1811.02629"
-  category: "preprint"
-
 - title: "CLAIRE: Parallelized diffeomorphic image registration for large-scale biomedical imaging applications"
   authors: "with Naveen Himthani, Malte Brunn, Jae Youn Kim, Miriam Schulte & George Biros"
   venue: "Journal of Imaging, 8(9):251, 2022"
+  year: 2022
   doi: "https://doi.org/10.3390/jimaging8090251"
   arxiv: "https://arxiv.org/abs/2209.08189"
   category: "journal"
@@ -145,48 +78,154 @@
 - title: "Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies"
   authors: "with Saeed Sarmadi, Joel J. Winkle, Razan N. Alnahhas, Matthew R. Bennett, Kresimir Josic & Robert Azencott"
   venue: "Mathematical and Computational Applications, 27(2):22, 2022"
+  year: 2022
   doi: "https://doi.org/10.3390/mca27020022"
   arxiv: "https://arxiv.org/abs/2104.13482"
   category: "journal"
 
-- title: "Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration"
-  authors: "with A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & T. M. Buzug"
-  venue: "Medical Physics, 39(7):4444-4460, 2012"
-  doi: "https://doi.org/10.1118/1.4722749"
+- title: "Diffeomorphic Shape Matching by Operator Splitting in 3D Cardiology Imaging"
+  authors: "with P Zhang, J He, R Azencott, KC El-Tallawi & WA Zoghbi"
+  venue: "Journal of Optimization Theory and Applications, 188(1):143-168, 2021"
+  year: 2021
+  doi: "https://doi.org/10.1007/s10957-020-01789-5"
+  arxiv: "https://doi.org/10.48550/arXiv.2011.10165"
   category: "journal"
 
-# Conference Proceedings
+- title: "CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures"
+  authors: "with M. Brunn, N. Himthani, G. Biros & M. Mehl"
+  venue: "Journal of Open Source Software, 6(61):3038, 2021"
+  year: 2021
+  doi: "https://doi.org/10.21105/joss.03038"
+  category: "journal"
+
+- title: "Fast GPU 3D diffeomorphic image registration"
+  authors: "with Malte Brunn, Naveen Himthani, George Biros & Miriam Mehl"
+  venue: "Journal of Parallel and Distributed Computing, 149:149-162, 2021"
+  year: 2021
+  doi: "https://doi.org/10.1016/j.jpdc.2020.11.006"
+  arxiv: "https://arxiv.org/abs/2004.08893"
+  category: "journal"
+
+- title: "Integrated biophysical modeling and image analysis: Application to neuro-oncology"
+  authors: "with Spyridon Bakas, Shashank Subramanian, Christos Davatzikos & George Biros"
+  venue: "Annual Reviews in Biomedical Engineering, 22:309-341, 2020"
+  year: 2020
+  doi: "https://doi.org/10.1146/annurev-bioeng-062117-121105"
+  arxiv: "https://arxiv.org/abs/2002.09628"
+  category: "journal"
+
+- title: "Image-driven biophysical tumor growth model calibration"
+  authors: "with Klaudius Scheufele, Shashank Subramanian, George Biros & Miriam Mehl"
+  venue: "SIAM Journal on Scientific Computing, 42(3):B549-B580, 2020"
+  year: 2020
+  doi: "http://dx.doi.org/10.1137/19M1275280"
+  arxiv: "https://arxiv.org/abs/1907.07774"
+  category: "journal"
+
 - title: "Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems"
   authors: "with Malte Brunn, Naveen Himthani, George Biros & Miriam Mehl"
   venue: "Proc ACM/IEEE Conference on Supercomputing, pp. 523-539, 2020"
+  year: 2020
   doi: "https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00042"
   arxiv: "https://arxiv.org/abs/2008.12820"
   category: "conference"
 
+- title: "Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the BRATS challenge"
+  authors: "with Spyridon Bakas, Mauricio Reyes, Andras Jakab et al."
+  venue: "arXiv:1811.02629, 2019"
+  year: 2019
+  arxiv: "https://arxiv.org/abs/1811.02629"
+  category: "preprint"
+
+- title: "CLAIRE: A distributed-memory solver for constrained large deformation diffeomorphic image registration"
+  authors: "with Amir Gholami, Christos Davatzikos & George Biros"
+  venue: "SIAM Journal on Scientific Computing, 41(5):C548-C584, 2019"
+  year: 2019
+  doi: "https://doi.org/10.1137/18M1207818"
+  arxiv: "https://arxiv.org/abs/1808.04487"
+  category: "journal"
+
+- title: "Coupling brain-tumor biophysical models and diffeomorphic image registration"
+  authors: "with Klaudius Scheufele, Amir Gholami, Christos Davatzikos, George Biros & Miriam Mehl"
+  venue: "Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019"
+  year: 2019
+  doi: "https://doi.org/10.1016/j.cma.2018.12.008"
+  arxiv: "https://arxiv.org/abs/1710.06420"
+  category: "journal"
+
+- title: "PDE-constrained optimization in medical image analysis"
+  authors: "with Amir Gholami, Christos Davatzikos & George Biros"
+  venue: "Optimization and Engineering, 19:765-812, 2018"
+  year: 2018
+  doi: "https://doi.org/10.1007/s11081-018-9390-9"
+  arxiv: "https://doi.org/10.48550/arXiv.1803.00058"
+  category: "journal"
+
+- title: "A Lagrangian Gauss-Newton-Krylov solver for intensity- and mass-preserving diffeomorphic image registration"
+  authors: "with Lars Ruthotto"
+  venue: "SIAM Journal on Scientific Computing, 39(5):B860-B885, 2017"
+  year: 2017
+  doi: "https://doi.org/10.1137/17M1114132"
+  arxiv: "http://arxiv.org/abs/1703.04446"
+  category: "journal"
+
+- title: "A semi-Lagrangian two-level preconditioned Newton-Krylov solver for constrained diffeomorphic image registration"
+  authors: "with George Biros"
+  venue: "SIAM Journal on Scientific Computing, 39(6):B1064-B1101, 2017"
+  year: 2017
+  doi: "https://doi.org/10.1137/16M1070475"
+  arxiv: "https://doi.org/10.48550/arXiv.1604.02153"
+  category: "journal"
+
 - title: "A framework for scalable biophysics-based image analysis"
   authors: "with Amir Gholami, Klaudius Scheufele, Christos Davatzikos, Miriam Mehl & George Biros"
   venue: "Proc ACM/IEEE Conference on SuperComputing, 19, 2017"
+  year: 2017
   doi: "http://dx.doi.org/10.1145/3126908.3126930"
   category: "conference"
+
+- title: "Constrained H1 regularization schemes for diffeomorphic image registration"
+  authors: "with George Biros"
+  venue: "SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016"
+  year: 2016
+  doi: "https://doi.org/10.1137/15M1010919"
+  arxiv: "http://arxiv.org/abs/1503.00757"
+  category: "journal"
+
+- title: "An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas"
+  authors: "with Amir Gholami & George Biros"
+  venue: "Journal of Mathematical Biology, 72(1):409-433, 2016"
+  year: 2016
+  doi: "https://doi.org/10.1007/s00285-015-0888-x"
+  arxiv: "http://arxiv.org/abs/1408.6221"
+  category: "journal"
 
 - title: "Distributed-memory large deformation diffeomorphic 3D image registration"
   authors: "with Amir Gholami & George Biros"
   venue: "Proc ACM/IEEE Conference on SuperComputing, 72:842-853, 2016"
+  year: 2016
   doi: "https://doi.org/10.1109/SC.2016.71"
   arxiv: "http://128.84.21.199/abs/1608.03630"
   category: "conference"
 
-# Book
+- title: "An inexact Newton-Krylov algorithm for constrained diffeomorphic image registration"
+  authors: "with George Biros"
+  venue: "SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015"
+  year: 2015
+  doi: "https://doi.org/10.1137/140984002"
+  arxiv: "http://arxiv.org/abs/1408.6299"
+  category: "journal"
+
 - title: "Methoden zur numerischen Simulation der Progression von Gliomen"
   authors: ""
   venue: "Springer Verlag, 2014"
+  year: 2014
   doi: "https://doi.org/10.1007/978-3-658-05246-1"
   category: "book"
 
-# Book Chapter
-- title: "CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D"
-  authors: ""
-  venue: "Explorations in the Mathematics of Data Science. Applied and Numerical Harmonic Analysis, 167-215, 2024"
-  doi: "https://doi.org/10.1007/978-3-031-66497-7_8"
-  arxiv: "https://doi.org/10.48550/arXiv:2401.17493"
-  category: "bookchapter"
+- title: "Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration"
+  authors: "with A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & T. M. Buzug"
+  venue: "Medical Physics, 39(7):4444-4460, 2012"
+  year: 2012
+  doi: "https://doi.org/10.1118/1.4722749"
+  category: "journal"
