@@ -129,6 +129,32 @@
   arxiv: "http://arxiv.org/abs/1408.6299"
   category: "journal"
 
+- title: "Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the BRATS challenge"
+  authors: "with Spyridon Bakas, Mauricio Reyes, Andras Jakab et al."
+  venue: "arXiv:1811.02629, 2019"
+  arxiv: "https://arxiv.org/abs/1811.02629"
+  category: "preprint"
+
+- title: "CLAIRE: Parallelized diffeomorphic image registration for large-scale biomedical imaging applications"
+  authors: "with Naveen Himthani, Malte Brunn, Jae Youn Kim, Miriam Schulte & George Biros"
+  venue: "Journal of Imaging, 8(9):251, 2022"
+  doi: "https://doi.org/10.3390/jimaging8090251"
+  arxiv: "https://arxiv.org/abs/2209.08189"
+  category: "journal"
+
+- title: "Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies"
+  authors: "with Saeed Sarmadi, Joel J. Winkle, Razan N. Alnahhas, Matthew R. Bennett, Kresimir Josic & Robert Azencott"
+  venue: "Mathematical and Computational Applications, 27(2):22, 2022"
+  doi: "https://doi.org/10.3390/mca27020022"
+  arxiv: "https://arxiv.org/abs/2104.13482"
+  category: "journal"
+
+- title: "Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration"
+  authors: "with A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & T. M. Buzug"
+  venue: "Medical Physics, 39(7):4444-4460, 2012"
+  doi: "https://doi.org/10.1118/1.4722749"
+  category: "journal"
+
 # Conference Proceedings
 - title: "Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems"
   authors: "with Malte Brunn, Naveen Himthani, George Biros & Miriam Mehl"
@@ -150,10 +176,17 @@
   arxiv: "http://128.84.21.199/abs/1608.03630"
   category: "conference"
 
+# Book
+- title: "Methoden zur numerischen Simulation der Progression von Gliomen"
+  authors: ""
+  venue: "Springer Verlag, 2014"
+  doi: "https://doi.org/10.1007/978-3-658-05246-1"
+  category: "book"
+
 # Book Chapter
 - title: "CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D"
   authors: ""
   venue: "Explorations in the Mathematics of Data Science. Applied and Numerical Harmonic Analysis, 167-215, 2024"
   doi: "https://doi.org/10.1007/978-3-031-66497-7_8"
   arxiv: "https://doi.org/10.48550/arXiv:2401.17493"
-  category: "book"
+  category: "bookchapter"

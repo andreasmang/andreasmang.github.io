@@ -42,7 +42,6 @@ h2 {
   font-size: 1.45rem;
   padding-bottom: 0.4rem;
   border-bottom: 2px solid #3172AE;
-  display: inline-block;
 }
 h3 { font-size: 1.2rem; }
 h4 { font-size: 1.05rem; }
@@ -494,23 +493,39 @@ hr {
 .home-bio table {
   width: auto;
   margin-bottom: 1rem;
+  border: none;
+}
+
+.contact-table thead,
+.home-bio table thead {
+  display: none;
 }
 
 .contact-table td,
-.home-bio table td {
+.home-bio table td,
+.home-bio table tbody td {
   padding: 0.3rem 0.6rem 0.3rem 0;
   border: none;
+  border-bottom: none;
   background: none;
   vertical-align: top;
 }
 
 .contact-table tr,
-.home-bio table tr {
+.contact-table tbody tr,
+.contact-table tbody tr:nth-child(odd),
+.contact-table tbody tr:nth-child(even),
+.home-bio table tr,
+.home-bio table tbody tr,
+.home-bio table tbody tr:nth-child(odd),
+.home-bio table tbody tr:nth-child(even) {
   background: none !important;
 }
 
 .contact-table tr:hover,
-.home-bio table tr:hover {
+.contact-table tbody tr:hover,
+.home-bio table tr:hover,
+.home-bio table tbody tr:hover {
   background: none !important;
 }
 
@@ -578,6 +593,11 @@ hr {
 }
 
 .pub-category.book {
+  background-color: rgba(243, 113, 33, 0.15);
+  color: #f09050;
+}
+
+.pub-category.bookchapter {
   background-color: rgba(140, 71, 153, 0.15);
   color: #b48ec2;
 }
