@@ -129,6 +129,8 @@ Code examples are available at [github.com/andreasmang/axisb](https://github.com
 
 ### References
 
+Below you can find a few references that I recommend related to either my research or courses I teach.
+
 <details markdown="1">
 <summary><strong>Inverse Problems</strong></summary>
 
@@ -167,7 +169,7 @@ Code examples are available at [github.com/andreasmang/axisb](https://github.com
 </details>
 
 <details markdown="1">
-<summary><strong>Applied & Computational Mathematics</summary>
+<summary><strong>Applied & Computational Mathematics</strong></summary>
 
 - E. Haber, *Computational Methods in Geophysical Electromagnetics*, SIAM, 2015.
 - C. A. Bouman, *Foundations of Computational Imaging: A Model-Based Approach*, SIAM, 2022.
