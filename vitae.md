@@ -6,7 +6,7 @@ title: Vitae
 <h2>Curriculum Vitae</h2>
 
 <div class="home-grid">
-<div>
+<div class="home-bio">
 
 <h3>Professional Appointments</h3>
 
@@ -54,7 +54,7 @@ title: Vitae
 
 <h3>Selected Talks</h3>
 
-<details open>
+<details open markdown="1">
 <summary><strong>Click to expand/collapse talks</strong></summary>
 
 <ol>
@@ -127,8 +127,8 @@ title: Vitae
 
 </div>
 
-<div>
-  <img src="assets/images/profile.jpg" alt="Andreas Mang" style="width:100%; border-radius:8px;">
+<div class="home-photo">
+  <img src="assets/images/profile.jpg" alt="Andreas Mang" class="profile-img">
 </div>
 
 </div>

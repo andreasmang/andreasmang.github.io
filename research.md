@@ -26,7 +26,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 ### Former SCOPA Members
 
-<details>
+<details markdown="1">
 <summary>Click to expand</summary>
 
 - Jannatul Chhoa, PhD Student (co-advised with Dr. He) 2021-2025

@@ -36,7 +36,7 @@ I will not be teaching any courses this semester.
 
 ### References
 
-<details>
+<details markdown="1">
 <summary><strong>Inverse Problems</strong></summary>
 
 - J. Kaipio and E. Somersalo, *Statistical and Computational Inverse Problems*, Springer, 2005.
@@ -48,7 +48,7 @@ I will not be teaching any courses this semester.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Optimization</strong></summary>
 
 - J. Nocedal and S. J. Wright, *Numerical Optimization*, Springer, 2006.
@@ -59,7 +59,7 @@ I will not be teaching any courses this semester.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Uncertainty Quantification</strong></summary>
 
 - R. C. Smith, *Uncertainty Quantification: Theory, Implementation, and Applications*, SIAM, 2014.
@@ -69,7 +69,7 @@ I will not be teaching any courses this semester.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Applied & Computational Mathematics</strong></summary>
 
 - L. N. Trefethen and D. Bau III, *Numerical Linear Algebra*, SIAM, 1997.
