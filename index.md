@@ -3,16 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="home-grid">
-<div class="home-bio">
+<div class="home-grid" markdown="1">
+<div class="home-bio" markdown="1">
 
 I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](research/) and the [classes I teach](teaching/).
 
 </div>
 <div class="home-photo">
-
-![Andreas Mang](assets/images/profile-home.jpg){: .profile-img }
-
+<img src="assets/images/profile-home.jpg" alt="Andreas Mang" class="profile-img">
 </div>
 </div>
 
@@ -45,9 +43,23 @@ The goal of my research is the development, analysis, and deployment of computat
 - **10/2025** -- Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 - April 24, 2026
 - **10/2025** -- Co-organizing workshop at Casa Matematica Oaxaca, May 31 - June 5, 2026
 
+## Open Positions and Academic Advising
+
+I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](publications/).
+
+I do **not** have any positions or financial support for *research or teaching assistants* for students that are **not enrolled in our PhD program**. Please **refrain from sending me any requests**. I generally do **not respond** to emails enquiring for these types of positions due to the volume of requests I receive.
+
+## Outreach
+
+I am a faculty adviser for the [Texas Theta Chapter](https://www.math.uh.edu/PME) of [Pi Mu Epsilon](http://pme-math.org) (PME). Information about joining PME can be found [here](https://www.math.uh.edu/PME/membership.html).
+
+## Letter of Recommendation Requests
+
+If you want me to write a letter of recommendation (LOR) for you, please reach out via email to expedite the process.
+
 ## Older News
 
-<details>
+<details markdown="1">
 <summary><strong>2025</strong></summary>
 
 - Attended the IMSI workshop "Optimal Control and Decision Making Under Uncertainty for Digital Twins" in Chicago, IL, October 27-31, 2025.
@@ -65,7 +77,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2024</strong></summary>
 
 - Co-organized a mini-symposium (w/ M. Chung (Emory)) at SIAM MDS24, Atlanta, GA, October 21-25, 2024.
@@ -81,7 +93,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2023</strong></summary>
 
 - German Villalobos successfully defended his dissertation.
@@ -98,7 +110,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2022</strong></summary>
 
 - Received the NSF CAREER Award (DMS-2145845).
@@ -111,7 +123,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2021</strong></summary>
 
 - Presented work at SIAM AN21, SIAM OP21, SIAM CSE21, and JMM.
@@ -120,7 +132,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2020</strong></summary>
 
 - Sorena Sarmadi successfully defended his dissertation.
@@ -129,7 +141,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2019</strong></summary>
 
 - Presented work at NeurIPS Workshop, Society for Neuro-Oncology, AMS Sectional, ICIAM, AIP Conference, and other venues.
@@ -138,7 +150,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2018</strong></summary>
 
 - Ms. Brenda Gonzalez received the Summer Undergraduate Research Fellowship.
@@ -148,7 +160,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2017</strong></summary>
 
 - Amir Gholaminejad won the Best Student Paper Award at SC'17.
@@ -158,7 +170,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2016</strong></summary>
 
 - Presented work at SC16, SIAM IS (Albuquerque), SIAM UQ (Lausanne), and Emory University.
@@ -166,7 +178,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2015</strong></summary>
 
 - Attended SC 2015 in Austin.
@@ -176,24 +188,10 @@ The goal of my research is the development, analysis, and deployment of computat
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2014</strong></summary>
 
 - Presented talks at University of Luebeck, UT Austin (Germanic Studies and DiaMonD seminar).
 - Attended the DiaMonD All-Hands Meeting at MIT, November 12-14, 2014.
 
 </details>
-
-## Open Positions and Academic Advising
-
-I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](publications/).
-
-I do **not** have any positions or financial support for *research or teaching assistants* for students that are **not enrolled in our PhD program**. Please **refrain from sending me any requests**. I generally do **not respond** to emails enquiring for these types of positions due to the volume of requests I receive.
-
-## Outreach
-
-I am a faculty adviser for the [Texas Theta Chapter](https://www.math.uh.edu/PME) of [Pi Mu Epsilon](http://pme-math.org) (PME). Information about joining PME can be found [here](https://www.math.uh.edu/PME/membership.html).
-
-## Letter of Recommendation Requests
-
-If you want me to write a letter of recommendation (LOR) for you, please reach out via email to expedite the process.
