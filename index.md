@@ -3,16 +3,10 @@ layout: default
 title: Home
 ---
 
-<div class="home-grid" markdown="1">
+<div class="home-grid">
 <div class="home-bio" markdown="1">
 
 I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](research/) and the [classes I teach](teaching/).
-
-</div>
-<div class="home-photo">
-<img src="/assets/images/profile-home.jpg" alt="Andreas Mang" class="profile-img">
-</div>
-</div>
 
 ### Contact
 
@@ -29,20 +23,32 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 | **Email** | andreas@math.uh.edu |
 | **Phone** | (+1)713-743-7409 |
 
+<div class="social-links">
+<a href="https://scholar.google.com/citations?user=CJc0_msAAAAJ" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-2a5 5 0 1 0 0-10 5 5 0 0 0 0 10z"/><path d="M0 9.5l12-7 12 7-12 7z"/></svg> Google Scholar</a>
+<a href="https://github.com/andreasmang" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg> GitHub</a>
+<a href="https://orcid.org/0000-0003-1844-3013" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.847-1.238-3.722-3.806-3.722h-2.513z"/></svg> ORCID</a>
+</div>
+
 ### Research Interests
 
 The goal of my research is the development, analysis, and deployment of computational and mathematical methods that integrate *data* with *simulation* and *optimization* with the aspiration to support *decision making* in challenging problems in the applied sciences.
 
+</div>
+<div class="home-photo">
+<img src="/assets/images/profile-home.jpg" alt="Andreas Mang" class="profile-img">
+</div>
+</div>
+
 ## News
 
 <ul class="news-list">
-<li><span class="news-date">02/2026</span><span class="news-text">Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL</span></li>
-<li><span class="news-date">01/2026</span><span class="news-text">Talk in CMOR Colloquium Series at Rice University, March 30, 2026</span></li>
-<li><span class="news-date">01/2026</span><span class="news-text">Virtual talk at HPE Data Science Institute, UH, February 26, 2026</span></li>
-<li><span class="news-date">11/2025</span><span class="news-text">Co-organizing mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
-<li><span class="news-date">10/2025</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026</span></li>
-<li><span class="news-date">10/2025</span><span class="news-text">Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 &ndash; April 24, 2026</span></li>
-<li><span class="news-date">10/2025</span><span class="news-text">Co-organizing workshop at Casa Matem&aacute;tica Oaxaca, May 31 &ndash; June 5, 2026</span></li>
+<li><span class="news-date">02/26</span><span class="news-text">Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL</span></li>
+<li><span class="news-date">01/26</span><span class="news-text">Talk in CMOR Colloquium Series at Rice University, March 30, 2026</span></li>
+<li><span class="news-date">01/26</span><span class="news-text">Virtual talk at HPE Data Science Institute, UH, February 26, 2026</span></li>
+<li><span class="news-date">11/25</span><span class="news-text">Co-organizing mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
+<li><span class="news-date">10/25</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026</span></li>
+<li><span class="news-date">10/25</span><span class="news-text">Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 &ndash; April 24, 2026</span></li>
+<li><span class="news-date">10/25</span><span class="news-text">Co-organizing workshop at Casa Matem&aacute;tica Oaxaca, May 31 &ndash; June 5, 2026</span></li>
 </ul>
 
 ## Open Positions and Academic Advising

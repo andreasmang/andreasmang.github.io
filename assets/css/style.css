@@ -38,7 +38,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { font-size: 1.8rem; }
-h2 { font-size: 1.45rem; }
+h2 {
+  font-size: 1.45rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #3172AE;
+  display: inline-block;
+}
 h3 { font-size: 1.2rem; }
 h4 { font-size: 1.05rem; }
 
@@ -467,27 +472,148 @@ hr {
 .news-list li {
   display: flex;
   gap: 1rem;
-  padding: 0.5rem 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  padding: 0.4rem 0;
   margin-bottom: 0;
 }
 
-.news-list li:last-child {
-  border-bottom: none;
-}
-
 .news-date {
-  flex: 0 0 5.5rem;
-  font-size: 0.85rem;
+  flex: 0 0 4rem;
   color: #3172AE;
   font-weight: 600;
   font-variant-numeric: tabular-nums;
-  padding-top: 0.1rem;
   white-space: nowrap;
 }
 
 .news-text {
   flex: 1;
+}
+
+/* ---------- Contact Table ---------- */
+
+.contact-table,
+.home-bio table {
+  width: auto;
+  margin-bottom: 1rem;
+}
+
+.contact-table td,
+.home-bio table td {
+  padding: 0.3rem 0.6rem 0.3rem 0;
+  border: none;
+  background: none;
+  vertical-align: top;
+}
+
+.contact-table tr,
+.home-bio table tr {
+  background: none !important;
+}
+
+.contact-table tr:hover,
+.home-bio table tr:hover {
+  background: none !important;
+}
+
+.contact-table td:first-child,
+.home-bio table td:first-child {
+  white-space: nowrap;
+  padding-right: 1.2rem;
+}
+
+/* ---------- Social / Profile Links ---------- */
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #a0a0b8;
+  font-size: 0.85rem;
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: #3172AE;
+  text-decoration: none;
+}
+
+.social-links svg {
+  flex-shrink: 0;
+}
+
+/* ---------- Publication Badges ---------- */
+
+.pub-category {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.pub-category.journal {
+  background-color: rgba(49, 114, 174, 0.2);
+  color: #4a9ad4;
+}
+
+.pub-category.preprint {
+  background-color: rgba(255, 199, 44, 0.15);
+  color: #e6b732;
+}
+
+.pub-category.conference {
+  background-color: rgba(0, 163, 173, 0.15);
+  color: #00c4cf;
+}
+
+.pub-category.book {
+  background-color: rgba(140, 71, 153, 0.15);
+  color: #b48ec2;
+}
+
+/* ---------- Back to Top ---------- */
+
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(49, 114, 174, 0.8);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, background-color 0.2s ease;
+  z-index: 999;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover {
+  background-color: rgba(49, 114, 174, 1);
 }
 
 /* ---------- Utility Classes ---------- */

@@ -17,5 +17,20 @@
     </div>
   </main>
   {% include footer.html %}
+  <button class="back-to-top" aria-label="Back to top" onclick="window.scrollTo({top:0})">&#9650;</button>
+  <script>
+  (function(){
+    var btn = document.querySelector('.back-to-top');
+    if (btn) {
+      window.addEventListener('scroll', function() {
+        if (window.scrollY > 400) {
+          btn.classList.add('visible');
+        } else {
+          btn.classList.remove('visible');
+        }
+      });
+    }
+  })();
+  </script>
 </body>
 </html>
