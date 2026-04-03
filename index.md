@@ -42,10 +42,10 @@ The goal of my research is the development, analysis, and deployment of computat
 ## News
 
 <ul class="news-list">
-<li><span class="news-date">03/26</span><span class="news-text">A SIAM news article for our CMBS Conference hosted at the University of Houston last year has appeared: [SIAM News Article](https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/)</span></li>
-<li><span class="news-date">03/26</span><span class="news-text">You can download the flyer for SIAM MDS26 [here](/assets/docs/MDS26-flyer.pdf) </span></li>
+<li><span class="news-date">03/26</span><span class="news-text">A SIAM news article for our CMBS Conference hosted at the University of Houston last year has appeared: <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a></span></li>
+<li><span class="news-date">03/26</span><span class="news-text">You can download the flyer for SIAM MDS26 <a href="/assets/docs/MDS26-flyer.pdf">here</a></span></li>
 <li><span class="news-date">02/26</span><span class="news-text">Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL</span></li>
-<li><span class="news-date">01/26</span><span class="news-text">Talk in CMOR Colloquium Series at Rice University, March 30, 2026</span></li>
+<li><span class="news-date">03/26</span><span class="news-text">Talk at the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University, March 30, 2026</span></li>
 <li><span class="news-date">01/26</span><span class="news-text">Virtual talk at HPE Data Science Institute, UH, February 26, 2026</span></li>
 <li><span class="news-date">11/25</span><span class="news-text">Co-organizing mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
 <li><span class="news-date">10/25</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026</span></li>
