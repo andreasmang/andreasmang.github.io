@@ -7,6 +7,14 @@ title: Programs
 
 ---
 
+### 2026 SIAM MDS 
+
+I am a co-chair of the SIAM Mathematics of Data Science conference to be held in Salt Lake City, November 16-20, 2026. 
+
+A flyer for SIAM MDS26 conference can be found here <a href="/assets/docs/MDS26-flyer.pdf">here</a>.
+
+---
+
 ### 2026 BIRS Workshop
 
 **Integrating Data- and Physics-Driven Methods for Decision Making under Uncertainty**
@@ -34,6 +42,8 @@ University of Houston, December 8-12, 2025
 NSF Award DMS-2430460
 
 This NSF/CBMS Regional Research Conference focuses on research at the interface of applied mathematics and machine learning. The conference features a distinguished lecturer series alongside contributed talks and poster sessions, aiming to introduce researchers and students to cutting-edge developments at this important interface.
+
+An article describing the conference can be found here: <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a></span></li>
 
 ---
 
