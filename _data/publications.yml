@@ -22,13 +22,6 @@
   arxiv: "https://arxiv.org/abs/2510.13109"
   category: "preprint"
 
-- title: "A unified framework for lifted training and inversion approaches"
-  authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
-  venue: ""
-  year: 2025
-  arxiv: "https://doi.org/10.48550/arXiv.2510.09796"
-  category: "preprint"
-
 - title: "A generalized alternating NGMRES method for PDE-constrained optimization problems governed by transport equations"
   authors: "with Yunhui He"
   venue: ""
@@ -42,6 +35,14 @@
   year: 2025
   arxiv: "https://doi.org/10.48550/arXiv.2510.14197"
   category: "preprint"
+
+- title: "A unified framework for lifted training and inversion approaches"
+  authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
+  venue: "Handbook of Numerical Analysis"
+  year: 2026
+  doi: "https://doi.org/10.1016/bs.hna.2026.03.001"
+  arxiv: "https://doi.org/10.48550/arXiv.2510.09796"
+  category: "bookchapter"
 
 - title: "Rare events analysis and computation for stochastic evolution of bacterial populations"
   authors: "with Yingxue Su, Brett Geiger, Ilya Timofeyev & Robert Azencott"
