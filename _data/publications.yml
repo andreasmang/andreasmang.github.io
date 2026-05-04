@@ -31,10 +31,11 @@
 
 - title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
   authors: "with German Villalobos & Johann Rudi"
-  venue: ""
+  venue: "SIAM Journal on Scientific Computing 48(3):C415-C452"
   year: 2025
+  doi: "https://doi.org/10.1137/24M171148"
   arxiv: "https://doi.org/10.48550/arXiv.2510.14197"
-  category: "preprint"
+  category: "journal"
 
 - title: "A unified framework for lifted training and inversion approaches"
   authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
