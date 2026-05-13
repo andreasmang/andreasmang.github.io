@@ -54,13 +54,6 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 
 </details>
 
-<h3>Documents</h3>
-
-<ul>
-  <li><a href="/assets/docs/andreas-mang-cv.pdf">Short Curriculum Vitae (PDF)</a></li>
-  <li><a href="/publications/">Publications</a></li>
-</ul>
-
 <h3>Selected Talks</h3>
 
 <details markdown="1">
