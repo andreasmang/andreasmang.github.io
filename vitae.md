@@ -66,6 +66,7 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 <details markdown="1">
 <summary>Click to expand/collapse talks</summary>
 
+- *Manifold-valued data: classification, clustering, and embeddings.* Texas A&M University Corpus Christi, TX, 2026.
 - *Principled computational methods informed by Riemannian geometry.* Rice University, Houston, TX, 2026.
 - *Principled algorithms for model- and data-driven discovery.* HPE Data Science Institute, University of Houston, 2026.
 - *Tensor-based surrogate models for digital twin applications in brain cancer dynamics.* JMM26, Washington, DC, 2026.
