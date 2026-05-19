@@ -5,7 +5,7 @@ title: Research
 
 ## Research
 
-I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](publications/).
+I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](/publications/).
 
 My key research areas include:
 

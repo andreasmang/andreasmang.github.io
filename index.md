@@ -6,7 +6,7 @@ title: Home
 <div class="home-grid">
 <div class="home-bio" markdown="1">
 
-I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](research/) and the [classes I teach](teaching/).
+I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](/research/) and the [classes I teach](/teaching/).
 
 ### Contact
 
@@ -56,7 +56,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 ## Open Positions and Academic Advising
 
-I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](publications/).
+I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](/publications/).
 
 I do **not** have any positions or financial support for *research or teaching assistants* for students that are **not enrolled in our PhD program**. Please **refrain from sending me any requests**. I generally do **not respond** to emails enquiring for these types of positions due to the volume of requests I receive.
 
