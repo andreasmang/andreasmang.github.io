@@ -37,13 +37,21 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.6em;
 }
 
-h1 { font-size: 1.8rem; }
+h1 {
+  font-size: 1.8rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 3px solid #3172AE;
+}
 h2 {
   font-size: 1.45rem;
   padding-bottom: 0.4rem;
   border-bottom: 2px solid #3172AE;
 }
-h3 { font-size: 1.2rem; }
+h3 {
+  font-size: 1.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid rgba(49, 114, 174, 0.45);
+}
 h4 { font-size: 1.05rem; }
 
 p {
