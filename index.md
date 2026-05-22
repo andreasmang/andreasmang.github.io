@@ -43,17 +43,21 @@ The goal of my research is the development, analysis, and deployment of computat
 
 <ul class="news-list">
 <li><span class="news-date">03/26</span><span class="news-text">A SIAM news article for our CMBS Conference hosted at the University of Houston last year has appeared: <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a></span></li>
+<li><span class="news-date">04/26</span><span class="news-text">Talk at the Department of Mathematics and Statistics at Texas A&M University &ndash; Corpus Christi, May 1, 2026</span></li>
 <li><span class="news-date">03/26</span><span class="news-text">You can download the flyer for SIAM MDS26 <a href="/assets/docs/MDS26-flyer.pdf">here</a></span></li>
 <li><span class="news-date">02/26</span><span class="news-text">Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL</span></li>
 <li><span class="news-date">03/26</span><span class="news-text">Talk at the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University, March 30, 2026</span></li>
 <li><span class="news-date">01/26</span><span class="news-text">Virtual talk at HPE Data Science Institute, UH, February 26, 2026</span></li>
-<li><span class="news-date">11/25</span><span class="news-text">Co-organizing mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
+<li><span class="news-date">11/25</span><span class="news-text">Co-organizing (w/ R. White (Sandia)) a mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
 <li><span class="news-date">10/25</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026</span></li>
 <li><span class="news-date">10/25</span><span class="news-text">Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 &ndash; April 24, 2026</span></li>
 <li><span class="news-date">10/25</span><span class="news-text">Co-organizing workshop at Casa Matem&aacute;tica Oaxaca, May 31 &ndash; June 5, 2026</span></li>
 </ul>
 
 ## Open Positions and Academic Advising
+
+
+- 
 
 I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](publications/).
 
@@ -100,14 +104,15 @@ Please include all of this in a **single email** to avoid unnecessary back-and-f
 <summary><strong>2024</strong></summary>
 
 - Co-organized a mini-symposium (w/ M. Chung (Emory)) at SIAM MDS24, Atlanta, GA, October 21-25, 2024.
-- Co-organized a mini-symposium (w/ D. Onofrei (UH)) at SIAM TX-LA, Baylor University, Waco, TX, October 11-13, 2024.
+- Co-organized a mini-symposium (w/ D. Onofrei (UHouston)) at SIAM TX-LA, Baylor University, Waco, TX, October 11-13, 2024.
 - Presented research at MOPTA at Lehigh University, Bethlehem, PA, August 14-16, 2024.
 - Presented research at the INFORMS Optimization Society Conference at Rice University, Houston, TX.
 - Co-organized (w/ A. Arnold (WPI)) a mini-symposium at CMBE, George Mason University, Arlington, VA.
-- Co-organized (w/ J. Modersitzki & J. Lellmann) a mini-symposium at SIAM IS, Atlanta, GA.
-- Co-organized (w/ E. Newman & S. Gamble) a mini-symposium at SIAM IS, Atlanta, GA.
+- Co-organized (w/ J. Modersitzki (ULuebeck) & J. Lellmann (ULuebeck)) a mini-symposium at SIAM IS, Atlanta, GA.
+- Co-organized (w/ E. Newman (Emory) & S. Gamble (NREL)) a mini-symposium at SIAM IS, Atlanta, GA.
+- Chhoa Jannatul successfully defended his dissertation.
 - Presented work on CLAIRE at SIAM UQ24, Trieste, IT, February 27-March 1, 2024.
-- Co-organized (w/ A. Arnold) a mini-symposium at SIAM UQ24, Trieste, IT.
+- Co-organized (w/ A. Arnold (WPI)) a mini-symposium at SIAM UQ24, Trieste, IT.
 - Organized a SIAM Minisymposium at JMM24, San Francisco, January 3-6, 2024.
 
 </details>
@@ -117,7 +122,7 @@ Please include all of this in a **single email** to avoid unnecessary back-and-f
 
 - German Villalobos successfully defended his dissertation.
 - Attended the workshop on "Mathematical Opportunities in Digital Twins" at George Mason University, December 11-13, 2023.
-- Co-organized (w/ A. Mamonov & D. Onofrei) a mini-symposium at SIAM TX-LA, Lafayette, LA, November 3-5, 2023.
+- Co-organized (w/ A. Mamonov (UHouston) & D. Onofrei (UHouston)) a mini-symposium at SIAM TX-LA, Lafayette, LA, November 3-5, 2023.
 - Jae Youn Kim successfully defended her dissertation.
 - Received the "Award for Excellence in Research, Scholarship and Creative Activity" from the Division of Research at UH.
 - Presented work at Virginia Tech, Texas A&M (CAMDA), University of Kansas, University of Puerto Rico Mayaguez, and NIST.
