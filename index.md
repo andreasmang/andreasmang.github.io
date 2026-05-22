@@ -6,7 +6,7 @@ title: Home
 <div class="home-grid">
 <div class="home-bio" markdown="1">
 
-I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](research/) and the [classes I teach](teaching/).
+I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](/research/) and the [classes I teach](/teaching/).
 
 ### Contact
 
@@ -26,7 +26,7 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 <div class="social-links">
 <a href="https://scholar.google.com/citations?user=CJc0_msAAAAJ" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-2a5 5 0 1 0 0-10 5 5 0 0 0 0 10z"/><path d="M0 9.5l12-7 12 7-12 7z"/></svg> Google Scholar</a>
 <a href="https://github.com/andreasmang" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg> GitHub</a>
-<a href="https://orcid.org/0000-0003-1844-3013" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.847-1.238-3.722-3.806-3.722h-2.513z"/></svg> ORCID</a>
+<a href="https://orcid.org/0000-0003-4605-3290" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.847-1.238-3.722-3.806-3.722h-2.513z"/></svg> ORCID</a>
 </div>
 
 </div>
@@ -42,24 +42,22 @@ The goal of my research is the development, analysis, and deployment of computat
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">04/26</span><span class="news-text">I am going to attend the <a href="https://ilas2026.math.vt.edu">ILAS26</a> conference, Virginia Tech, Blacksburg, May 18&ndash;22</span>)</li>
 <li><span class="news-date">03/26</span><span class="news-text">A SIAM news article for our CMBS Conference hosted at the University of Houston last year has appeared: <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a></span></li>
 <li><span class="news-date">04/26</span><span class="news-text">Talk at the Department of Mathematics and Statistics at Texas A&M University &ndash; Corpus Christi, May 1, 2026</span></li>
 <li><span class="news-date">03/26</span><span class="news-text">You can download the flyer for SIAM MDS26 <a href="/assets/docs/MDS26-flyer.pdf">here</a></span></li>
 <li><span class="news-date">02/26</span><span class="news-text">Serving as SIAM Coordinating Committee member for JMM2027 in Chicago, IL</span></li>
 <li><span class="news-date">03/26</span><span class="news-text">Talk at the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University, March 30, 2026</span></li>
 <li><span class="news-date">01/26</span><span class="news-text">Virtual talk at HPE Data Science Institute, UH, February 26, 2026</span></li>
-<li><span class="news-date">11/25</span><span class="news-text">Co-organizing (w/ R. White (Sandia)) a mini-symposium at SIAM UQ26, Minneapolis, March 22-25, 2026</span></li>
-<li><span class="news-date">10/25</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16-20, 2026</span></li>
+<li><span class="news-date">11/25</span><span class="news-text">Co-organizing (w/ R. White (Sandia)) a mini-symposium at SIAM UQ26, Minneapolis, March 22&ndash;25, 2026</span></li>
+<li><span class="news-date">10/25</span><span class="news-text">Co-chair for SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, November 16&ndash;20, 2026</span></li>
 <li><span class="news-date">10/25</span><span class="news-text">Long Term Visitor at ICERM Special Semester, Providence, RI, January 20 &ndash; April 24, 2026</span></li>
-<li><span class="news-date">10/25</span><span class="news-text">Co-organizing workshop at Casa Matem&aacute;tica Oaxaca, May 31 &ndash; June 5, 2026</span></li>
+<li><span class="news-date">10/25</span><span class="news-text">Co-organizing workshop at Casa Matem&aacute;tica Oaxaca, May 31 &ndash; June 5, 2026 (more info: <a href=https://www.birs.ca/events/2026/5-day-workshops/26w5632>workshop announcement</a></span></li>
 </ul>
 
 ## Open Positions and Academic Advising
 
-
-- 
-
-I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](publications/).
+I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](/publications/).
 
 I do **not** have any positions or financial support for *research or teaching assistants* for students that are **not enrolled in our PhD program**. Please **refrain from sending me any requests**. I generally do **not respond** to emails enquiring for these types of positions due to the volume of requests I receive.
 

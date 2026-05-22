@@ -7,11 +7,19 @@ title: Teaching
 
 Below you can find a list of courses I am currently teaching as well as courses I have taught in the past. Courses marked with a **\*** are new courses I have developed.
 
-### Current Courses
+### Upcoming Courses (Fall 2026)
 
-I will not be teaching any courses this semester.
+**Math 166 -- Statistics**
 
-### Past Courses (at University of Houston)
+This course introduces the foundational ideas and methods of modern statistics, emphasizing reasoning from data, probabilistic modeling, and practical analysis. Students learn how statisticians design studies, summarize and visualize data, quantify uncertainty, and draw conclusions through statistical inference.
+
+Topics include descriptive statistics, probability distributions, random variables, sampling methods, confidence intervals, hypothesis testing, regression, correlation, and an introduction to predictive modeling. The course also examines how statistical results are interpreted and communicated across scientific, social, and applied settings.
+
+Through hands-on work with real datasets and statistical software, students build the technical skills to analyze data and the critical judgment to evaluate the statistical claims.
+
+The syllabus will be posted closer to the start of the semester.
+
+### Past Courses
 
 #### Graduate Courses
 
