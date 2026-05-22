@@ -3,7 +3,7 @@ layout: default
 title: Programs
 ---
 
-## Programs, Workshops & Conferences
+# Programs, Workshops & Conferences
 
 ---
 

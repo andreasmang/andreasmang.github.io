@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-## Selected Publications
+# Selected Publications
 
 A more complete list of publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=CJc0_msAAAAJ&hl=en).
 

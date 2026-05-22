@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-## Teaching
+# Teaching
 
 Below you can find a list of courses I am currently teaching as well as courses I have taught in the past. Courses marked with a **\*** are new courses I have developed.
 

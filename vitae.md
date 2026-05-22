@@ -3,7 +3,7 @@ layout: default
 title: Vitae
 ---
 
-<h2>Curriculum Vitae</h2>
+<h1>Curriculum Vitae</h1>
 
 <div class="home-grid">
 <div class="home-bio">
