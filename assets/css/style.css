@@ -32,26 +32,19 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #111827;
   font-weight: 600;
-  line-height: 1.25;
-  margin-top: 1.8em;
-  margin-bottom: 0.55em;
-  letter-spacing: -0.01em;
+  line-height: 1.3;
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
 }
 
-h1 {
-  font-size: 2.1rem;
-  font-weight: 700;
-  margin-top: 0.2em;
-  letter-spacing: -0.02em;
-}
+h1 { font-size: 1.8rem; }
 h2 {
-  font-size: 1.35rem;
-  padding-bottom: 0;
-  border-bottom: none;
-  margin-top: 2.4em;
+  font-size: 1.45rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #3172AE;
 }
-h3 { font-size: 1.1rem; }
-h4 { font-size: 1.0rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.05rem; }
 
 p {
   margin-bottom: 1em;
@@ -178,75 +171,79 @@ strong { color: #111827; }
   transform: translateY(-6px) rotate(-45deg);
 }
 
+/* ---------- Hero Banner ---------- */
+
+.hero-banner {
+  position: relative;
+  height: 220px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #0a1628;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 22, 40, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-content {
+  text-align: center;
+  padding: 1rem;
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.hero-title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 0.4rem;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.04em;
+}
+
+.hero-subtitle {
+  font-size: 1.15rem;
+  color: #d0d0e0;
+  margin: 0;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+  letter-spacing: 0.02em;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
 /* ---------- Main Content ---------- */
 
 .site-content {
-  min-height: calc(100vh - 54px - 120px);
+  min-height: calc(100vh - 54px - 220px - 120px);
 }
 
 .content-container {
-  max-width: 1080px;
+  max-width: 960px;
   margin: 0 auto;
-  padding: 3rem 1.5rem 2.5rem;
+  padding: 2rem 1.5rem;
 }
 
-/* No cards. Sections sit on the page. */
+/* Card-style content sections */
+
 .content-container > section,
 .content-card {
-  background: none;
-  border: none;
-  padding: 0;
-  margin-bottom: 0;
-  box-shadow: none;
-}
-
-/* ---------- Home Layout (main + aside) ---------- */
-
-.home-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 280px;
-  gap: 4rem;
-  align-items: start;
-}
-
-.home-main {
-  min-width: 0;
-}
-
-.home-aside {
-  position: sticky;
-  top: 74px;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-  font-size: 0.92rem;
-}
-
-.home-hero {
-  margin-bottom: 2.5rem;
-}
-
-.home-hero h1 {
-  font-size: 2.4rem;
-  margin: 0 0 0.35em;
-}
-
-.home-hero .lead {
-  font-size: 1.05rem;
-  color: #4b5563;
-  margin: 0;
-  letter-spacing: 0.005em;
-}
-
-img.profile-img {
-  display: block;
-  width: 100%;
-  max-width: 240px;
+  background-color: #ffffff;
   border-radius: 8px;
-  border: none;
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
 }
 
-/* Legacy two-column for inner pages (vitae uses .home-grid) */
+/* ---------- Two-Column Layout (Home / Vitae) ---------- */
 
 .two-column,
 .home-grid {
@@ -257,55 +254,66 @@ img.profile-img {
 
 .two-column .col-photo,
 .home-grid .home-photo {
-  flex: 0 0 220px;
+  flex: 0 0 180px;
+}
+
+.two-column .col-photo img,
+.home-grid .home-photo img,
+img.profile-img {
+  width: 100%;
+  max-width: 180px;
+  border-radius: 8px;
+  border: 2px solid rgba(49, 114, 174, 0.25);
 }
 
 .two-column .col-bio,
 .home-grid .home-bio {
   flex: 1;
+  min-width: 0;
 }
 
-/* ---------- Aside (sidebar) ---------- */
-
-.aside-block {
-  display: flex;
-  flex-direction: column;
-  gap: 0.85rem;
-}
-
-.aside-label {
-  font-size: 0.72rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: #6b7280;
-  margin: 0 0 0.4rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-}
+/* ---------- Compact Contact Block ---------- */
 
 .contact-compact {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.25rem 1rem;
   font-style: normal;
-  line-height: 1.65;
-  font-size: 0.92rem;
+  margin: 0.4rem 0 0.9rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
 }
 
-.contact-compact .muted {
+.contact-compact dt {
   color: #6b7280;
-  font-size: 0.86rem;
+  font-weight: 500;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  align-self: center;
 }
 
-.aside-more {
-  margin: 0.5rem 0 0;
-  font-size: 0.85rem;
+.contact-compact dd {
+  margin: 0;
+  color: #1f2937;
 }
 
-.aside-more a {
+.contact-compact dd.muted {
   color: #6b7280;
+  font-size: 0.9rem;
 }
 
-.aside-more a:hover {
-  color: #3172AE;
+.bio-name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.1rem;
+  color: #111827;
+}
+
+.bio-role {
+  margin: 0 0 1rem;
+  color: #4b5563;
+  font-size: 0.98rem;
 }
 
 /* ---------- Lists ---------- */
@@ -536,16 +544,6 @@ hr {
   flex: 1;
 }
 
-.news-list--compact li {
-  padding: 0.35rem 0;
-  font-size: 0.88rem;
-  line-height: 1.5;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.06);
-}
-
-.news-list--compact li:last-child {
-  border-bottom: none;
-}
 
 /* ---------- Contact Table ---------- */
 
@@ -738,26 +736,16 @@ hr {
     position: relative;
   }
 
-  .home-layout {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 2.5rem;
+  .hero-banner {
+    height: 180px;
   }
 
-  .home-aside {
-    position: static;
-    order: 2;
+  .hero-title {
+    font-size: 1.9rem;
   }
 
-  .home-main {
-    order: 1;
-  }
-
-  img.profile-img {
-    max-width: 180px;
-  }
-
-  .home-hero h1 {
-    font-size: 1.85rem;
+  .hero-subtitle {
+    font-size: 1rem;
   }
 
   .two-column,
@@ -768,12 +756,17 @@ hr {
   .two-column .col-photo,
   .home-grid .home-photo {
     flex: none;
-    width: 180px;
+    width: 160px;
     margin: 0 auto;
   }
 
+  .contact-compact {
+    grid-template-columns: max-content 1fr;
+    font-size: 0.9rem;
+  }
+
   .content-container {
-    padding: 1.5rem 1rem;
+    padding: 1.25rem 1rem;
   }
 
   table {
@@ -787,11 +780,19 @@ hr {
 }
 
 @media screen and (max-width: 480px) {
-  h1 { font-size: 1.55rem; }
-  h2 { font-size: 1.15rem; }
+  h1 { font-size: 1.4rem; }
+  h2 { font-size: 1.2rem; }
 
-  .home-hero h1 {
-    font-size: 1.55rem;
+  .hero-banner {
+    height: 150px;
+  }
+
+  .hero-title {
+    font-size: 1.6rem;
+  }
+
+  .hero-subtitle {
+    font-size: 0.9rem;
   }
 }
 
@@ -805,16 +806,9 @@ hr {
   }
 
   .navbar,
+  .hero-banner,
   .site-footer {
     display: none;
-  }
-
-  .home-layout {
-    grid-template-columns: 1fr;
-  }
-
-  .home-aside {
-    position: static;
   }
 
   .site-content {
