@@ -1,0 +1,61 @@
+# News items shown on the home page.
+# Sorted newest-first at render time via Liquid; use YYYY-MM-DD for `date`
+# (day defaults to 01 if only month/year is meaningful).
+# The `text` field accepts inline HTML.
+
+- date: 2026-04-15
+  text: >-
+    I am going to attend the
+    <a href="https://ilas2026.math.vt.edu">ILAS26</a>
+    conference, Virginia Tech, Blacksburg, May 18&ndash;22
+
+- date: 2026-04-01
+  text: >-
+    Talk at the Department of Mathematics and Statistics at
+    Texas A&amp;M University &ndash; Corpus Christi, May 1, 2026
+
+- date: 2026-03-15
+  text: >-
+    A SIAM news article for our CMBS Conference hosted at the
+    University of Houston last year has appeared:
+    <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a>
+
+- date: 2026-03-10
+  text: >-
+    You can download the flyer for SIAM MDS26
+    <a href="/assets/docs/MDS26-flyer.pdf">here</a>
+
+- date: 2026-03-05
+  text: >-
+    Talk at the Department of Computational Applied Mathematics and
+    Operations Research (CMOR) at Rice University, March 30, 2026
+
+- date: 2026-02-01
+  text: >-
+    Serving as SIAM Coordinating Committee member for JMM2027 in
+    Chicago, IL
+
+- date: 2026-01-15
+  text: >-
+    Virtual talk at HPE Data Science Institute, UH, February 26, 2026
+
+- date: 2025-11-01
+  text: >-
+    Co-organizing (w/ R. White (Sandia)) a mini-symposium at SIAM UQ26,
+    Minneapolis, March 22&ndash;25, 2026
+
+- date: 2025-10-20
+  text: >-
+    Co-chair for SIAM Conference on Mathematics of Data Science
+    (MDS26), Salt Lake City, November 16&ndash;20, 2026
+
+- date: 2025-10-15
+  text: >-
+    Long Term Visitor at ICERM Special Semester, Providence, RI,
+    January 20 &ndash; April 24, 2026
+
+- date: 2025-10-01
+  text: >-
+    Co-organizing workshop at Casa Matem&aacute;tica Oaxaca,
+    May 31 &ndash; June 5, 2026 (more info:
+    <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5632">workshop announcement</a>)
