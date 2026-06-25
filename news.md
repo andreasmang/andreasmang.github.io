@@ -50,7 +50,7 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 <details markdown="1">
 <summary><strong>2020</strong></summary>
 
-- Sorena Sarmadi successfully defended his dissertation.
+- Saeed Sarmadi successfully defended his dissertation.
 - Presented work at SIAM TX-LA, SIAM IS, and SIAM MDS.
 - Co-organized mini-symposia at SIAM TX-LA (w/ S. Subramanian) and SIAM MDS (w/ D. Labate).
 

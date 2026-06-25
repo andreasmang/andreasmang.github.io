@@ -78,22 +78,22 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 - *CLAIRE: Scalable algorithms for diffeomorphic image registration.* SIAM IS24, Atlanta, GA, 2024.
 - *Fast iterative solvers for initial value control problems.* INFORMS Optimization Society Conference, Rice University, Houston, TX, 2024.
 - *CLAIRE: Scalable algorithms for diffeomorphic image registration.* SIAM UQ24, Trieste, IT, 2024.
-- *Efficient algorithms for inverse problems governed by dynamical systems.* University of Houston (host: K. B. Nakshatrala), 2023.
-- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* USNCCM7, Albuquerque, NM, 2023.
+- *Efficient algorithms for inverse problems governed by dynamical systems.* University of Houston, 2023.
+- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* USNCCM17, Albuquerque, NM, 2023.
 - *Shape classification through the lens of geodesic flows of diffeomorphisms.* BIRS Workshop, BC, CA, 2023.
 - *Scalable algorithms for inverse problems governed by dynamical systems.* HPE Data Science Institute, UH, 2023.
 - *Deep neural networks for Bayesian inverse problems governed by nonlinear ODEs.* INdAM Workshop, Rome, IT, 2023.
 - *Fast algorithms for PDE-constrained optimization under uncertainty.* SIAM OP23, Seattle, US, 2023.
-- *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms.* Virginia Tech (host: J. Rudi), 2023.
-- *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms.* Texas A&M, CAMDA (host: S. Foucart), 2023.
-- *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms.* University of Kansas (host: S. Shontz), 2023.
-- *Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations.* University of Puerto Rico, Mayaguez (host: J. R. Romero), 2023.
+- *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms.* Virginia Tech, 2023.
+- *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms.* Texas A&M, CAMDA, 2023.
+- *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms.* University of Kansas, 2023.
+- *Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations.* University of Puerto Rico, Mayaguez, 2023.
 - *Fast algorithms for inverse problems governed by transport equations.* AMS Southeastern Sectional, Atlanta, GA, 2023.
-- *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D.* NIST, Boulder, CO (host: G. Dogan), 2023.
+- *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D.* NIST, Boulder, CO, 2023.
 - *Deep learning for Bayesian inverse problems governed by nonlinear differential equations.* SIAM CSE23, Amsterdam, NL, 2023.
 - *Scalable algorithms for diffeomorphic image registration.* Dagstuhl Seminar, Wadern, DE, 2023.
 - *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration.* JMM23, Boston, MA, 2023.
-- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* George Mason University (host: H. Antil), 2022.
+- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* George Mason University, 2022.
 - *Fast algorithms for diffeomorphic image registration.* SIAM TX-LA, Houston, TX, 2022.
 - *Randomized algorithms for efficient preconditioning and uncertainty quantification in inverse transport problems.* SIAM MDS22, San Diego, CA, 2022.
 - *Fast algorithms for initial value control problems in diffeomorphic registration.* Copper Mountain Conference, 2022.
@@ -101,7 +101,7 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 - *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic registration in 3D.* SIAM OP21, 2021.
 - *Uncertainty quantification in diffeomorphic image registration.* SIAM AN21, 2021.
 - *Uncertainty quantification for inverse transport problems.* SIAM CSE21, 2021.
-- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* Oden Seminar, UT Austin (host: T. Bui-Thanh), 2021.
+- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* Oden Seminar, UT Austin, 2021.
 - *Statistical analysis of shapes and shape deformations in 3D.* JMM, 2021.
 - *Classification of 3D shapes and shape deformations.* SIAM TX-LA, 2020.
 - *Fast GPU-accelerated diffeomorphic image registration in 3D.* SIAM IS20, 2020.
@@ -110,7 +110,7 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 - *Fast GPU-accelerated diffeomorphic image registration in 3D.* SIAM TX-LA, SMU, Dallas, TX, 2019.
 - *Fast algorithms for nonlinear optimal control for diffeomorphic registration.* RICAM Workshop, Linz, AT, 2019.
 - *Uncertainty quantification in nonlinear optimal control problems for diffeomorphic registration.* AMS Sectional, UW-Madison, 2019.
-- *Fast algorithms for nonlinear optimal control for diffeomorphic registration.* University of Twente, NL (host: C. Brune), 2019.
+- *Fast algorithms for nonlinear optimal control for diffeomorphic registration.* University of Twente, NL, 2019.
 - *Fast diffeomorphic image registration in 3D.* ICIAM, Valencia, ES, 2019.
 - *Fast algorithms for initial value control problems in diffeomorphic image registration.* AIP Conference, Grenoble, FR, 2019.
 - *Diffeomorphic shape matching: Fast algorithms for non-linear optimal control problems.* ENS Paris-Saclay, Cachan, FR, 2019.
@@ -118,33 +118,33 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 - *Fast algorithms for inverse transport problems.* SIAM Annual Meeting, Portland, OR, 2018.
 - *CLAIRE: A parallel solver for constrained diffeomorphic image registration.* Mint Medical GmbH, Heidelberg, DE, 2018.
 - *Parallel algorithms for hyperbolic PDE-constrained optimization problems.* PMAA, ETH Zurich, 2018.
-- *CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration.* U of Stuttgart (host: M. Schulte), 2018.
+- *CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration.* U of Stuttgart, 2018.
 - *CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration.* SIAM IS, Bologna, IT, 2018.
-- *Computational mathematics meets medicine: Formulations, numerics, and parallel computing.* Emory University (host: J. Nagy), 2018.
-- *CLAIRE: A distributed-memory solver for constrained diffeomorphic image registration.* Rice University (host: J. Chan), 2018.
+- *Computational mathematics meets medicine: Formulations, numerics, and parallel computing.* Emory University, 2018.
+- *CLAIRE: A distributed-memory solver for constrained diffeomorphic image registration.* Rice University, 2018.
 - *Parallel algorithms for optimal control based diffeomorphic image registration.* SIAM Houston Imaging Sciences Symposium, 2017.
 - *Preconditioners for the reduced space Hessian in hyperbolic optimal control problems.* Preconditioning Conference, Vancouver, CA, 2017.
 - *A distributed-memory Newton-Krylov solver for inverse transport problems.* USNCCM, Montreal, CA, 2017.
 - *A distributed-memory Newton-Krylov solver for constrained diffeomorphic image registration.* AIP Conference, Hangzhou, CN, 2017.
 - *Parallel algorithms for PDE-constrained optimization problems with hyperbolic constraints.* SIAM CSE, Atlanta, GA, 2017.
-- *PDE-constrained optimization and high-performance computing meets medicine.* University of Houston (host: K. Josic), 2016.
-- *A parallel solver for inverse transport problems.* Emory University (host: L. Ruthotto), 2016.
+- *PDE-constrained optimization and high-performance computing meets medicine.* University of Houston, 2016.
+- *A parallel solver for inverse transport problems.* Emory University, 2016.
 - *Fast solvers for constrained diffeomorphic image registration.* SIAM IS, Albuquerque, NM, 2016.
 - *Fast algorithms for diffeomorphic image registration.* OCIP Workshop, TU Munich, 2016.
 - *Efficient evaluation of Hessian operators arising in large-scale inverse transport problems.* SIAM UQ, Lausanne, CH, 2016.
-- *Numerical simulation and optimization in medical imaging.* University of Hamburg (host: A. Iske), 2015.
+- *Numerical simulation and optimization in medical imaging.* University of Hamburg, 2015.
 - *Efficient algorithms for optimal control based diffeomorphic image registration.* OCIP Workshop, TU Munich, 2015.
 - *Efficient algorithms for physically constrained diffeomorphic image registration.* SIAM CSE, Salt Lake City, UT, 2015.
-- *Optimal control meets medical imaging sciences.* TU Munich (host: B. Menze), 2015.
-- *Efficient algorithms for inverse transport problems.* U of Luebeck (host: T. M. Buzug), 2014.
+- *Optimal control meets medical imaging sciences.* TU Munich, 2015.
+- *Efficient algorithms for inverse transport problems.* U of Luebeck, 2014.
 - *Computational tools in neuroimaging.* SIEMENS Molecular Imaging, Oxford, UK, 2012.
 - *Personalised image-based modelling of brain tumour progression.* UMC Hamburg-Eppendorf, 2012.
 - *Image-based modeling of brain tumour progression.* SIAM IS, Philadelphia, PA, 2012.
-- *Image-based modelling of tumor growth.* University of Luebeck (host: J. Modersitzki), 2011.
+- *Image-based modelling of tumor growth.* University of Luebeck, 2011.
 - *From image registration to bio-physical modelling.* University of Applied Sciences Kiel, DE, 2010.
 - *A mathematical toolbox for the description of brain cancer dynamics.* DKFZ, Heidelberg, DE, 2010.
 - *Image registration with application to neuroradiology.* University of Luebeck, DE, 2008.
-- *Image registration with application to brain tumour imaging.* University of Luebeck (host: B. Fischer), 2007.
+- *Image registration with application to brain tumour imaging.* University of Luebeck, 2007.
 - *Analysis of brain tumour growth via non-parametric non-rigid image registration.* Philips Research Europe, Hamburg, DE, 2007.
 
 </details>
@@ -153,7 +153,7 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 
 <ul>
   <li>Society for Industrial and Applied Mathematics (SIAM)</li>
-  <li>Association for Computing and Machinery (ACM)</li>
+  <li>Association for Computing Machinery (ACM)</li>
   <li>American Mathematical Society (AMS)</li>
   <li>Pi Mu Epsilon (PME)</li>
 </ul>

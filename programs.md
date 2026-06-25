@@ -11,7 +11,7 @@ title: Programs
 
 I am a co-chair of the SIAM Mathematics of Data Science conference to be held in Salt Lake City, November 16-20, 2026. 
 
-A flyer for SIAM MDS26 conference can be found here <a href="/assets/docs/MDS26-flyer.pdf">here</a>.
+A flyer for the SIAM MDS26 conference can be found <a href="/assets/docs/MDS26-flyer.pdf">here</a>.
 
 ---
 
@@ -21,7 +21,7 @@ A flyer for SIAM MDS26 conference can be found here <a href="/assets/docs/MDS26-
 
 Co-organized with R. White, L. L. R. Ramirez, and T. Bui-Thanh.
 
-Casa Matematica Oaxaca, May 31 - June 5, 2026
+Casa Matem&aacute;tica Oaxaca, May 31 - June 5, 2026
 
 [Workshop webpage](https://www.birs.ca/events/2026/5-day-workshops/26w5632)
 
@@ -43,7 +43,7 @@ NSF Award DMS-2430460
 
 This NSF/CBMS Regional Research Conference focuses on research at the interface of applied mathematics and machine learning. The conference features a distinguished lecturer series alongside contributed talks and poster sessions, aiming to introduce researchers and students to cutting-edge developments at this important interface.
 
-An article describing the conference can be found here: <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a></span></li>
+An article describing the conference can be found here: <a href="https://www.siam.org/publications/siam-news/articles/cbms-conference-research-at-the-interface-of-applied-mathematics-and-machine-learning/">SIAM News Article</a>
 
 ---
 

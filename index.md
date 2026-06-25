@@ -45,7 +45,7 @@ The goal of my research is the development, analysis, and deployment of computat
 
 ## Open Positions and Academic Advising
 
-I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](/publications/).
+I have research projects for graduate and undergraduate students. Undergraduate students must be currently enrolled at the University of Houston. Graduate students need to apply to the [graduate program](http://www.uh.edu/nsm/math/graduate) of the Department of Mathematics. More information about the program and the requirements to obtain a Ph.D. degree from our department can be found [here](https://uh.edu/nsm/math/graduate/phd-outline/). Information on **how to apply to our Ph.D. program** can be found [here](https://uh.edu/nsm/math/graduate/admissions/). Contact the graduate studies director listed on this page for more information. *Only contact me directly if (i) you are already enrolled in the program or (ii) you want to work with me and have specific questions about my research*. Information about current research directions of my group can be found [here](/research/).
 
 I do **not** have any positions or financial support for *research or teaching assistants* for students that are **not enrolled in our PhD program**. Please **refrain from sending me any requests**. I generally do **not respond** to emails enquiring for these types of positions due to the volume of requests I receive.
 
@@ -73,6 +73,7 @@ Please include all of this in a **single email** to avoid unnecessary back-and-f
 
 - Attended the IMSI workshop "Optimal Control and Decision Making Under Uncertainty for Digital Twins" in Chicago, IL, October 27-31, 2025.
 - Co-organized (w/ E. Hartman & N. Charon (UHouston)) a mini-symposium on "Recent Advances in High-Dimensional and Geometric Data Analysis" at the 2025 SIAM TXLA Annual Meeting in Austin, TX, September 26-28, 2025.
+- Jannatul Chhoa successfully defended her dissertation.
 - Attended ICCOPT in Los Angeles, CA, July 19-24, 2025.
 - Attended SIAM AN25 in Montreal, Quebec, Canada, July 28-August 1, 2025.
 - Co-organized ChAMELEON summer school at the University of Houston, TX.
@@ -96,7 +97,6 @@ Please include all of this in a **single email** to avoid unnecessary back-and-f
 - Co-organized (w/ A. Arnold (WPI)) a mini-symposium at CMBE, George Mason University, Arlington, VA.
 - Co-organized (w/ J. Modersitzki (ULuebeck) & J. Lellmann (ULuebeck)) a mini-symposium at SIAM IS, Atlanta, GA.
 - Co-organized (w/ E. Newman (Emory) & S. Gamble (NREL)) a mini-symposium at SIAM IS, Atlanta, GA.
-- Chhoa Jannatul successfully defended his dissertation.
 - Presented work on CLAIRE at SIAM UQ24, Trieste, IT, February 27-March 1, 2024.
 - Co-organized (w/ A. Arnold (WPI)) a mini-symposium at SIAM UQ24, Trieste, IT.
 - Organized a SIAM Minisymposium at JMM24, San Francisco, January 3-6, 2024.
