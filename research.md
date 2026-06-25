@@ -3,9 +3,7 @@ layout: default
 title: Research
 ---
 
-# Research
-
-I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](/publications/).
+I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](/publications/), and a selection of my [talks](/talks/) is also available.
 
 My key research areas include:
 
@@ -30,10 +28,10 @@ The goal of my research is the development, analysis, and deployment of computat
 <details markdown="1">
 <summary>Click to expand</summary>
 
-- Jannatul Chhoa, PhD Student (co-advised with Dr. He) 2021-2025
+- Jannatul Chhoa, PhD Student (co-advised with Dr. He), 2021-2025
 - Dinh Binh Le, Undergraduate Student (2025 SURF Recipient)
 - Radmir Sultamuratov, PhD Student (co-advised with Dr. Azencott), 2021-2024
-- Mayank Konduri, Highschool Student, 2023-2024
+- Mayank Konduri, High School Student, 2023-2024
 - Anjalee Nair, Undergraduate Student (2024 SURF Recipient), Summer 2024
 - Li Meng, Graduate Student, 2023-2024
 - German Villalobos, PhD Student, 2020-2023
@@ -63,6 +61,6 @@ This work is supported by the following awards:
 - NSF Award [DMS-2012825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012825) (2020-2023)
 - NSF Award [DMS-2009923](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2009923) (2020-2023)
 - NSF Award [DMS-1854853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854853) (2019-2022)
-- SIMONS Foundation Award 586055 (2019)
+- Simons Foundation Award 586055 (2019)
 - NVIDIA Corporation
 - UH DOR GEAR Award 2025

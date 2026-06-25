@@ -3,8 +3,6 @@ layout: default
 title: Teaching
 ---
 
-# Teaching
-
 Below you can find a list of courses I am currently teaching as well as courses I have taught in the past. Courses marked with a **\*** are new courses I have developed.
 
 ### Upcoming Courses (Fall 2026)
@@ -144,11 +142,11 @@ Below you can find a few references that I recommend related to either my resear
 
 - L. Tenorio, *An Introduction to Data Analysis and Uncertainty Quantification for Inverse Problems*, SIAM, 2017.
 - A. Kirsch, *An Introduction to the Mathematical Theory of Inverse Problems*, Springer, 1996.
-- C. Vogel, *Computational Inverse Problems*, SIAM Press, 2002.
-- J. Bardsley, *Computational Uncertainty Quantification for Inverse Problems*, SIAM Press, 2018.
-- P.C. Hansen, *Discrete Inverse Problems: Insight and Algorithms*, SIAM Press, 2010.
-- A. Tarantola, *Inverse Problem Theory and Methods for Model Parameter Estimation*, SIAM Press, 2004.
-- P.C. Hansen, *Rank-Deficient and Discrete Ill-Posed Problems*, SIAM Press, 1998.
+- C. Vogel, *Computational Inverse Problems*, SIAM, 2002.
+- J. Bardsley, *Computational Uncertainty Quantification for Inverse Problems*, SIAM, 2018.
+- P.C. Hansen, *Discrete Inverse Problems: Insight and Algorithms*, SIAM, 2010.
+- A. Tarantola, *Inverse Problem Theory and Methods for Model Parameter Estimation*, SIAM, 2004.
+- P.C. Hansen, *Rank-Deficient and Discrete Ill-Posed Problems*, SIAM, 1998.
 - R. C. Aster, B. Borchers, and C. H. Thurber, *Parameter Estimation and Inverse Problems*, Elsevier, 2019.
 - J. Kaipio and E. Somersalo, *Statistical and Computational Inverse Problems*, Springer, 2005.
 

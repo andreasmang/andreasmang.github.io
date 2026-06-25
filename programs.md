@@ -1,10 +1,7 @@
 ---
 layout: default
 title: Programs
----
-
-# Programs, Workshops & Conferences
-
+heading: Programs, Workshops & Conferences
 ---
 
 ### 2026 SIAM MDS 

@@ -10,7 +10,7 @@
 
 - title: "A unified framework for lifted training and inversion approaches"
   authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
-  venue: "Handbook of Numerical Analysis"
+  venue: "Handbook of Numerical Analysis, 2026"
   year: 2026
   doi: "https://doi.org/10.1016/bs.hna.2026.03.001"
   arxiv: "https://doi.org/10.48550/arXiv.2510.09796"
@@ -54,7 +54,7 @@
   category: "journal"
 
 - title: "Classification of Deformable Smooth Shapes Through Geodesic Flows of Diffeomorphisms"
-  authors: "with Hossein Dabirian, Radmir Sultamuratov, James Herring, Carlos El Tallawi, William Zoghbi & Robert Azencott"
+  authors: "with Hossein Dabirian, Radmir Sultamuratov, James Herring, Carlos El-Tallawi, William Zoghbi & Robert Azencott"
   venue: "Journal of Mathematical Imaging and Vision, 2024"
   year: 2024
   doi: "https://doi.org/10.1007/s10851-024-01211-z"
@@ -94,7 +94,7 @@
   category: "journal"
 
 - title: "Diffeomorphic Shape Matching by Operator Splitting in 3D Cardiology Imaging"
-  authors: "with P Zhang, J He, R Azencott, KC El-Tallawi & WA Zoghbi"
+  authors: "with Peng Zhang, Jiwen He, Robert Azencott, Carlos El-Tallawi & William Zoghbi"
   venue: "Journal of Optimization Theory and Applications, 188(1):143-168, 2021"
   year: 2021
   doi: "https://doi.org/10.1007/s10957-020-01789-5"
@@ -118,7 +118,7 @@
 
 - title: "Integrated biophysical modeling and image analysis: Application to neuro-oncology"
   authors: "with Spyridon Bakas, Shashank Subramanian, Christos Davatzikos & George Biros"
-  venue: "Annual Reviews in Biomedical Engineering, 22:309-341, 2020"
+  venue: "Annual Review of Biomedical Engineering, 22:309-341, 2020"
   year: 2020
   doi: "https://doi.org/10.1146/annurev-bioeng-062117-121105"
   arxiv: "https://arxiv.org/abs/2002.09628"
@@ -136,7 +136,7 @@
   authors: "with Malte Brunn, Naveen Himthani, George Biros & Miriam Mehl"
   venue: "Proc ACM/IEEE Conference on Supercomputing, pp. 523-539, 2020"
   year: 2020
-  doi: "https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00042"
+  doi: "https://doi.org/10.1109/SC41405.2020.00042"
   arxiv: "https://arxiv.org/abs/2008.12820"
   category: "conference"
 
@@ -176,7 +176,7 @@
   venue: "SIAM Journal on Scientific Computing, 39(5):B860-B885, 2017"
   year: 2017
   doi: "https://doi.org/10.1137/17M1114132"
-  arxiv: "http://arxiv.org/abs/1703.04446"
+  arxiv: "https://arxiv.org/abs/1703.04446"
   category: "journal"
 
 - title: "A semi-Lagrangian two-level preconditioned Newton-Krylov solver for constrained diffeomorphic image registration"
@@ -199,7 +199,7 @@
   venue: "SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016"
   year: 2016
   doi: "https://doi.org/10.1137/15M1010919"
-  arxiv: "http://arxiv.org/abs/1503.00757"
+  arxiv: "https://arxiv.org/abs/1503.00757"
   category: "journal"
 
 - title: "An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas"
@@ -207,7 +207,7 @@
   venue: "Journal of Mathematical Biology, 72(1):409-433, 2016"
   year: 2016
   doi: "https://doi.org/10.1007/s00285-015-0888-x"
-  arxiv: "http://arxiv.org/abs/1408.6221"
+  arxiv: "https://arxiv.org/abs/1408.6221"
   category: "journal"
 
 - title: "Distributed-memory large deformation diffeomorphic 3D image registration"
@@ -223,7 +223,7 @@
   venue: "SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015"
   year: 2015
   doi: "https://doi.org/10.1137/140984002"
-  arxiv: "http://arxiv.org/abs/1408.6299"
+  arxiv: "https://arxiv.org/abs/1408.6299"
   category: "journal"
 
 - title: "Methoden zur numerischen Simulation der Progression von Gliomen"

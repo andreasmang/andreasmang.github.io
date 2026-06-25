@@ -190,6 +190,14 @@ strong { color: #111827; }
   background-color: #0a1628;
 }
 
+.hero-banner.hero-compact {
+  height: 130px;
+}
+
+.hero-compact .hero-title {
+  font-size: 2rem;
+}
+
 .hero-overlay {
   position: absolute;
   inset: 0;
@@ -239,33 +247,18 @@ strong { color: #111827; }
   padding: 2rem 1.5rem;
 }
 
-/* Card-style content sections */
-
-.content-container > section,
-.content-card {
-  background-color: #ffffff;
-  border-radius: 8px;
-  padding: 1.5rem 1.75rem;
-  margin-bottom: 1.25rem;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
-}
-
 /* ---------- Two-Column Layout (Home / Vitae) ---------- */
 
-.two-column,
 .home-grid {
   display: flex;
   gap: 2rem;
   align-items: flex-start;
 }
 
-.two-column .col-photo,
 .home-grid .home-photo {
   flex: 0 0 180px;
 }
 
-.two-column .col-photo img,
 .home-grid .home-photo img,
 img.profile-img {
   width: 100%;
@@ -274,7 +267,6 @@ img.profile-img {
   border: 2px solid rgba(49, 114, 174, 0.25);
 }
 
-.two-column .col-bio,
 .home-grid .home-bio {
   flex: 1;
   min-width: 0;
@@ -748,6 +740,14 @@ hr {
     height: 180px;
   }
 
+  .hero-banner.hero-compact {
+    height: 100px;
+  }
+
+  .hero-compact .hero-title {
+    font-size: 1.5rem;
+  }
+
   .hero-title {
     font-size: 1.9rem;
   }
@@ -756,12 +756,10 @@ hr {
     font-size: 1rem;
   }
 
-  .two-column,
   .home-grid {
     flex-direction: column;
   }
 
-  .two-column .col-photo,
   .home-grid .home-photo {
     flex: none;
     width: 160px;
@@ -793,6 +791,10 @@ hr {
 
   .hero-banner {
     height: 150px;
+  }
+
+  .hero-banner.hero-compact {
+    height: 85px;
   }
 
   .hero-title {
@@ -828,8 +830,6 @@ hr {
     padding: 0;
   }
 
-  .content-container > section,
-  .content-card,
   details {
     background: none;
     border: none;

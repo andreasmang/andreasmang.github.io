@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Vitae
+heading: Curriculum Vitae
 ---
-
-<h1>Curriculum Vitae</h1>
 
 <div class="home-grid">
 <div class="home-bio">
@@ -56,98 +55,7 @@ Andreas Mang is an Associate Professor at the Department of Mathematics of the U
 
 <h3>Selected Talks</h3>
 
-<details markdown="1">
-<summary>Click to expand/collapse talks</summary>
-
-- *Manifold-valued data: classification, clustering, and embeddings.* Texas A&M University Corpus Christi, TX, 2026.
-- *Principled computational methods informed by Riemannian geometry.* Rice University, Houston, TX, 2026.
-- *Principled algorithms for model- and data-driven discovery.* HPE Data Science Institute, University of Houston, 2026.
-- *Tensor-based surrogate models for digital twin applications in brain cancer dynamics.* JMM26, Washington, DC, 2026.
-- *Scalable and principled algorithms for scientific computing and data-enabled discovery.* Tufts University, Medford, MA, 2025.
-- *Fast algorithms for inverse transport problems.* Texas Tech University, Lubbock, TX, 2025.
-- *A generalized alternating nonlinear GMRES acceleration method.* SIAM TX-LA, UT Austin, 2025.
-- *Numerical methods for PDE-based diffeomorphic image registration.* SIAM AN25, Montreal, CA, 2025.
-- *CLAIRE: Constrained large deformation diffeomorphic image registration.* ICCOPT, USC, Los Angeles, CA, 2025.
-- *Data- and model-driven approaches for solving inverse problems.* SciML Summer School, Texas A&M, 2025.
-- *Bayesian inference for large scale inverse problems governed by hyperbolic dynamical systems.* SIAM CSE25, Fort Worth, TX, 2025.
-- *Efficient numerical methods for inverse problems governed by transport equations.* DTE & AICOMAS, Paris, FR, 2025.
-- *Deep learning for Bayesian inverse problems governed by nonlinear ODEs.* SIAM MDS24, Atlanta, GA, 2024.
-- *Fast iterative methods for large-scale initial value control problems.* SIAM TX-LA, Baylor University, Waco, TX, 2024.
-- *Fast iterative methods for large-scale initial value control problems.* MOPTA, Lehigh University, Bethlehem, PA, 2024.
-- *Efficient numerical schemes for uncertainty quantification in diffeomorphic image registration.* CMBE24, Arlington, VA, 2024.
-- *CLAIRE: Scalable algorithms for diffeomorphic image registration.* SIAM IS24, Atlanta, GA, 2024.
-- *Fast iterative solvers for initial value control problems.* INFORMS Optimization Society Conference, Rice University, Houston, TX, 2024.
-- *CLAIRE: Scalable algorithms for diffeomorphic image registration.* SIAM UQ24, Trieste, IT, 2024.
-- *Efficient algorithms for inverse problems governed by dynamical systems.* University of Houston, 2023.
-- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* USNCCM17, Albuquerque, NM, 2023.
-- *Shape classification through the lens of geodesic flows of diffeomorphisms.* BIRS Workshop, BC, CA, 2023.
-- *Scalable algorithms for inverse problems governed by dynamical systems.* HPE Data Science Institute, UH, 2023.
-- *Deep neural networks for Bayesian inverse problems governed by nonlinear ODEs.* INdAM Workshop, Rome, IT, 2023.
-- *Fast algorithms for PDE-constrained optimization under uncertainty.* SIAM OP23, Seattle, US, 2023.
-- *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms.* Virginia Tech, 2023.
-- *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms.* Texas A&M, CAMDA, 2023.
-- *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms.* University of Kansas, 2023.
-- *Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations.* University of Puerto Rico, Mayaguez, 2023.
-- *Fast algorithms for inverse problems governed by transport equations.* AMS Southeastern Sectional, Atlanta, GA, 2023.
-- *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D.* NIST, Boulder, CO, 2023.
-- *Deep learning for Bayesian inverse problems governed by nonlinear differential equations.* SIAM CSE23, Amsterdam, NL, 2023.
-- *Scalable algorithms for diffeomorphic image registration.* Dagstuhl Seminar, Wadern, DE, 2023.
-- *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration.* JMM23, Boston, MA, 2023.
-- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* George Mason University, 2022.
-- *Fast algorithms for diffeomorphic image registration.* SIAM TX-LA, Houston, TX, 2022.
-- *Randomized algorithms for efficient preconditioning and uncertainty quantification in inverse transport problems.* SIAM MDS22, San Diego, CA, 2022.
-- *Fast algorithms for initial value control problems in diffeomorphic registration.* Copper Mountain Conference, 2022.
-- *Fast algorithms for initial value control problems.* SIAM IS22, 2022.
-- *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic registration in 3D.* SIAM OP21, 2021.
-- *Uncertainty quantification in diffeomorphic image registration.* SIAM AN21, 2021.
-- *Uncertainty quantification for inverse transport problems.* SIAM CSE21, 2021.
-- *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms.* Oden Seminar, UT Austin, 2021.
-- *Statistical analysis of shapes and shape deformations in 3D.* JMM, 2021.
-- *Classification of 3D shapes and shape deformations.* SIAM TX-LA, 2020.
-- *Fast GPU-accelerated diffeomorphic image registration in 3D.* SIAM IS20, 2020.
-- *Automatic classification of 3D shapes and shape deformations.* SIAM MDS20, 2020.
-- *Estimating oncogenic parameters via biophysical brain tumor growth modeling.* Society for Neuro-Oncology, Phoenix, AZ, 2019.
-- *Fast GPU-accelerated diffeomorphic image registration in 3D.* SIAM TX-LA, SMU, Dallas, TX, 2019.
-- *Fast algorithms for nonlinear optimal control for diffeomorphic registration.* RICAM Workshop, Linz, AT, 2019.
-- *Uncertainty quantification in nonlinear optimal control problems for diffeomorphic registration.* AMS Sectional, UW-Madison, 2019.
-- *Fast algorithms for nonlinear optimal control for diffeomorphic registration.* University of Twente, NL, 2019.
-- *Fast diffeomorphic image registration in 3D.* ICIAM, Valencia, ES, 2019.
-- *Fast algorithms for initial value control problems in diffeomorphic image registration.* AIP Conference, Grenoble, FR, 2019.
-- *Diffeomorphic shape matching: Fast algorithms for non-linear optimal control problems.* ENS Paris-Saclay, Cachan, FR, 2019.
-- *Optimal control of PDEs: Application to brain tumor modeling.* AMS Southeastern Sectional, U of Arkansas, 2018.
-- *Fast algorithms for inverse transport problems.* SIAM Annual Meeting, Portland, OR, 2018.
-- *CLAIRE: A parallel solver for constrained diffeomorphic image registration.* Mint Medical GmbH, Heidelberg, DE, 2018.
-- *Parallel algorithms for hyperbolic PDE-constrained optimization problems.* PMAA, ETH Zurich, 2018.
-- *CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration.* U of Stuttgart, 2018.
-- *CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration.* SIAM IS, Bologna, IT, 2018.
-- *Computational mathematics meets medicine: Formulations, numerics, and parallel computing.* Emory University, 2018.
-- *CLAIRE: A distributed-memory solver for constrained diffeomorphic image registration.* Rice University, 2018.
-- *Parallel algorithms for optimal control based diffeomorphic image registration.* SIAM Houston Imaging Sciences Symposium, 2017.
-- *Preconditioners for the reduced space Hessian in hyperbolic optimal control problems.* Preconditioning Conference, Vancouver, CA, 2017.
-- *A distributed-memory Newton-Krylov solver for inverse transport problems.* USNCCM, Montreal, CA, 2017.
-- *A distributed-memory Newton-Krylov solver for constrained diffeomorphic image registration.* AIP Conference, Hangzhou, CN, 2017.
-- *Parallel algorithms for PDE-constrained optimization problems with hyperbolic constraints.* SIAM CSE, Atlanta, GA, 2017.
-- *PDE-constrained optimization and high-performance computing meets medicine.* University of Houston, 2016.
-- *A parallel solver for inverse transport problems.* Emory University, 2016.
-- *Fast solvers for constrained diffeomorphic image registration.* SIAM IS, Albuquerque, NM, 2016.
-- *Fast algorithms for diffeomorphic image registration.* OCIP Workshop, TU Munich, 2016.
-- *Efficient evaluation of Hessian operators arising in large-scale inverse transport problems.* SIAM UQ, Lausanne, CH, 2016.
-- *Numerical simulation and optimization in medical imaging.* University of Hamburg, 2015.
-- *Efficient algorithms for optimal control based diffeomorphic image registration.* OCIP Workshop, TU Munich, 2015.
-- *Efficient algorithms for physically constrained diffeomorphic image registration.* SIAM CSE, Salt Lake City, UT, 2015.
-- *Optimal control meets medical imaging sciences.* TU Munich, 2015.
-- *Efficient algorithms for inverse transport problems.* U of Luebeck, 2014.
-- *Computational tools in neuroimaging.* SIEMENS Molecular Imaging, Oxford, UK, 2012.
-- *Personalised image-based modelling of brain tumour progression.* UMC Hamburg-Eppendorf, 2012.
-- *Image-based modeling of brain tumour progression.* SIAM IS, Philadelphia, PA, 2012.
-- *Image-based modelling of tumor growth.* University of Luebeck, 2011.
-- *From image registration to bio-physical modelling.* University of Applied Sciences Kiel, DE, 2010.
-- *A mathematical toolbox for the description of brain cancer dynamics.* DKFZ, Heidelberg, DE, 2010.
-- *Image registration with application to neuroradiology.* University of Luebeck, DE, 2008.
-- *Image registration with application to brain tumour imaging.* University of Luebeck, 2007.
-- *Analysis of brain tumour growth via non-parametric non-rigid image registration.* Philips Research Europe, Hamburg, DE, 2007.
-
-</details>
+<p>A selection of invited seminars and conference talks is available on the <a href="/talks/">talks page</a>.</p>
 
 <h3>Memberships</h3>
 

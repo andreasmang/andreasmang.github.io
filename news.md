@@ -4,8 +4,6 @@ title: News Archive
 description: Archive of older news, talks, and activities by Andreas Mang.
 ---
 
-# News Archive
-
 This page archives news from 2023 and earlier. For recent updates, see the [home page](/).
 
 <details markdown="1">
@@ -16,7 +14,7 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 - Co-organized (w/ A. Mamonov (UHouston) & D. Onofrei (UHouston)) a mini-symposium at SIAM TX-LA, Lafayette, LA, November 3-5, 2023.
 - Jae Youn Kim successfully defended her dissertation.
 - Received the "Award for Excellence in Research, Scholarship and Creative Activity" from the Division of Research at UH.
-- Presented work at Virginia Tech, Texas A&M (CAMDA), University of Kansas, University of Puerto Rico Mayaguez, and NIST.
+- Presented work at Virginia Tech, Texas A&M (CAMDA), University of Kansas, University of Puerto Rico, Mayaguez, and NIST.
 - Attended USNCCM17 in Albuquerque, NM, July 23-27, 2023.
 - Participated in BIRS workshop at UCB Okanagan, June 25-30, 2023.
 - Participated in INdAM workshop "LIP: Learning for Inverse Problems" in Rome, IT, June 5-9, 2023.
@@ -70,7 +68,7 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 
 - Ms. Brenda Gonzalez received the Summer Undergraduate Research Fellowship.
 - Presented work at SIAM AN18, PMAA (ETH Zurich), SIAM IS18 (Bologna), and Rice University.
-- Visited University Stuttgart, June 11-22, 2018.
+- Visited the University of Stuttgart, June 11-22, 2018.
 - Co-organized (w/ G. Biros) a mini-symposium at SIAM IS18.
 
 </details>
@@ -78,7 +76,7 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 <details markdown="1">
 <summary><strong>2017</strong></summary>
 
-- Amir Gholaminejad won the Best Student Paper Award at SC'17.
+- Amir Gholami won the Best Student Paper Award at SC17.
 - Work featured on the Texas Advanced Computing Center (TACC) website.
 - Presented work at USNCCM14, AIP Conference (Hangzhou), and SIAM CSE (Atlanta).
 - Co-organized (w/ G. Biros) a mini-symposium at SIAM CSE17.
@@ -96,7 +94,7 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 <details markdown="1">
 <summary><strong>2015</strong></summary>
 
-- Attended SC 2015 in Austin.
+- Attended SC15 in Austin.
 - Participated in IdeaLab at ICERM, Brown University.
 - Presented work at SIAM CSE15, TU Munich, and OCIP 2015.
 - Co-organized (w/ G. Biros) a mini-symposium at SIAM CSE15.
