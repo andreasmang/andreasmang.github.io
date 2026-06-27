@@ -7,9 +7,11 @@ title: Home
 <div class="home-bio" markdown="1">
 
 <p class="bio-name">Andreas Mang &ensp;<span class="text-muted" style="font-weight:400;font-size:0.85rem;">[/an'dre:as mang/]</span></p>
-<p class="bio-role">Associate Professor &middot; Department of Mathematics &middot; University of Houston</p>
+<p class="bio-role">Associate Professor &middot; Department of Mathematics &middot; University of Houston <span class="role-transition">&rarr; Tufts University (Fall 2026)</span></p>
 
 I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](/research/) and the [classes I teach](/teaching/).
+
+<p class="announcement" markdown="1">**I will join the Department of Mathematics at Tufts University in Fall 2026.**</p>
 
 <dl class="contact-compact">
 <dt>Email</dt><dd><a href="mailto:andreas@math.uh.edu">andreas@math.uh.edu</a></dd>
@@ -17,7 +19,7 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 <dt>Office</dt><dd>Philip Guthrie Hoffman Hall (PGH), 614</dd>
 <dt>Address</dt><dd>3551 Cullen Blvd., Houston, TX 77204&ndash;3008</dd>
 <dt>Group</dt><dd>Numerical Analysis &amp; Scientific Computing</dd>
-<dt>Hours</dt><dd class="muted">Spring 2026: by appointment</dd>
+<dt>Hours</dt><dd class="muted">Summer 2026: by appointment</dd>
 </dl>
 
 <div class="social-links">
