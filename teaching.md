@@ -7,7 +7,7 @@ Below you can find a list of courses I am currently teaching as well as courses 
 
 ### Upcoming Courses (Fall 2026)
 
-**Math 166 -- Statistics**
+**MATH 166 -- Statistics**
 
 This course introduces the foundational ideas and methods of modern statistics, emphasizing reasoning from data, probabilistic modeling, and practical analysis. Students learn how statisticians design studies, summarize and visualize data, quantify uncertainty, and draw conclusions through statistical inference.
 
