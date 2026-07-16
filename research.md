@@ -7,14 +7,24 @@ I am a member of the Numerical Analysis & Scientific Computing group. I am the h
 
 My key research areas include:
 
-- machine learning and data science 
-- scientific computing and numerical methods
-- numerical optimization and variational techniques
+- scientific machine learning and data-driven modeling
+- inverse problems and PDE-constrained optimization
+- numerical optimization, including optimization for machine learning
+- tensor methods, model reduction, and surrogate models
+- uncertainty quantification and Bayesian inference
 - nonlinear optimal control
-- inverse problems (governed by dynamical systems)
-- parallel and distributed-memory algorithms
+- geometric methods and the analysis of shapes and manifold-valued data
+- scalable, parallel, and GPU-accelerated algorithms
 
-The goal of my research is the development, analysis, and deployment of computational and mathematical methods that integrate *data* with *simulation* and *optimization* with the aspiration to support *decision making* in challenging problems in the applied sciences. My work draws on tools from numerical analysis, scientific computing, optimization, statistics, and machine learning to tackle problems in medical imaging, computational anatomy, data science, and beyond.
+The goal of my research is the design of principled and scalable algorithms at the interface of machine learning, optimization, and scientific computing that integrate *data* with *simulation* to enable data-driven discovery in the applied sciences. I am interested in methods that combine the interpretability and predictive power of mechanistic models with the flexibility of learning, and in the numerical analysis that makes them trustworthy &mdash; stability, structure preservation, and a rigorous accounting of uncertainty. My work is driven by applications in medical imaging and the life sciences, and much of it is released as open-source software for GPU and supercomputing platforms.
+
+**Integrating models with data.** Much of my work concerns settings in which a mechanistic model &mdash; typically a system of differential equations &mdash; must be reconciled with observations. This leads to large-scale problems that are nonconvex, ill-posed, and expensive to solve. I am interested in formulations that respect the structure of the underlying problem, in fast solvers that make such problems tractable at realistic scale, and in Bayesian and randomized techniques that quantify the uncertainty of the resulting estimates.
+
+**Learning and numerics.** Mechanistic models are interpretable and extrapolate beyond the data, but they are costly; learned models are fast and flexible, but can be opaque and unreliable outside the regime they were trained on. A growing part of my work combines the two in a principled way, through continuous-time and dynamical-systems formulations of learning, structure- and stability-preserving discretizations, optimization methods for training, and surrogate and operator-learning frameworks. The guiding question is how to bring the standards of numerical analysis &mdash; stability, convergence, well-posedness &mdash; to methods that learn from data.
+
+**Reduction and scale.** Making these problems affordable is itself a mathematical question. Tensor-based reduced-order models and learned surrogates compress parametric models into forms cheap enough for many-query settings such as model calibration, uncertainty quantification, and digital twins. Complementing this, I design parallel and GPU-accelerated algorithms so that the resulting methods scale from a workstation to a supercomputer.
+
+**Geometry and applications.** Many of the objects I work with &mdash; images, shapes, deformations, and covariance structures &mdash; do not live in flat vector spaces, and respecting their geometry is often what makes an algorithm both meaningful and efficient. These methods are driven by applications in medical imaging and the life sciences, including computational anatomy, biophysical modeling of disease progression, cardiology, and systems biology.
 
 ### SCOPA Members
 
@@ -55,7 +65,6 @@ The goal of my research is the development, analysis, and deployment of computat
 ### Support
 
 This work is supported by the following awards:
-
 - NSF Award [DMS-2145845](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145845) (CAREER Award; 2022-2027)
 - NSF Award [DMS-2430460](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2430460) (2025)
 - NSF Award [DMS-2012825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012825) (2020-2023)

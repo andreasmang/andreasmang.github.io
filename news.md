@@ -9,102 +9,139 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 <details markdown="1">
 <summary><strong>2023</strong></summary>
 
-- German Villalobos successfully defended his dissertation.
-- Attended the workshop on "Mathematical Opportunities in Digital Twins" at George Mason University, December 11-13, 2023.
-- Co-organized (w/ A. Mamonov (UHouston) & D. Onofrei (UHouston)) a mini-symposium at SIAM TX-LA, Lafayette, LA, November 3-5, 2023.
-- Jae Youn Kim successfully defended her dissertation.
-- Received the "Award for Excellence in Research, Scholarship and Creative Activity" from the Division of Research at UH.
-- Presented work at Virginia Tech, Texas A&M (CAMDA), University of Kansas, University of Puerto Rico, Mayaguez, and NIST.
-- Attended USNCCM17 in Albuquerque, NM, July 23-27, 2023.
-- Participated in BIRS workshop at UCB Okanagan, June 25-30, 2023.
-- Participated in INdAM workshop "LIP: Learning for Inverse Problems" in Rome, IT, June 5-9, 2023.
-- Co-organized mini-symposia at SIAMOP23 (w/ G. Biros) and SIAM CSE23 (w/ J. Rudi & T. Bui-Thanh).
-- Co-organized Dagstuhl Seminar on "Inverse Biophysical Modeling and Machine Learning in Personalized Oncology", January 8-13, 2023.
+- Jae Youn Kim successfully defended her doctoral dissertation in August 2023.
+- German Villalobos successfully defended his doctoral dissertation in December 2023.
+- Received the Award for Excellence in Research, Scholarship and Creative Activity from the Division of Research at the University of Houston.
+- Co-organized (with G. Biros, M. Schulte, and B. Menze) the Dagstuhl Seminar on inverse biophysical modeling and machine learning in personalized oncology, January 8-13, 2023.
+- Co-organized (with J. Rudi and T. Bui-Thanh) a mini-symposium at the SIAM Conference on Computational Science and Engineering, Amsterdam, the Netherlands.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Optimization, Seattle, Washington.
+- Co-organized (with A. Mamonov and D. Onofrei) a mini-symposium at the SIAM Texas-Louisiana Annual Meeting, Lafayette, Louisiana, November 3-5, 2023.
+- Gave an invited colloquium at Virginia Tech, Blacksburg, Virginia.
+- Gave an invited talk at Texas A&M University, College Station, Texas.
+- Gave an invited talk at the University of Kansas, Lawrence, Kansas.
+- Gave an invited colloquium at the University of Puerto Rico at Mayagüez.
+- Gave an invited talk at the National Institute of Standards and Technology, Boulder, Colorado.
+- Participated in a workshop on learning for inverse problems at the Istituto Nazionale di Alta Matematica, Rome, Italy, June 5-9, 2023.
+- Participated in a workshop on model- and data-driven methods in medical imaging at the Banff International Research Station, British Columbia, Canada, June 25-30, 2023.
+- Attended the 17th United States National Congress on Computational Mechanics, Albuquerque, New Mexico, July 23-27, 2023.
+- Attended a workshop on mathematical opportunities in digital twins at George Mason University, Fairfax, Virginia, December 11-13, 2023.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2022</strong></summary>
 
-- Received the NSF CAREER Award (DMS-2145845).
-- Received the NSM Junior Faculty Award For Excellence in Research.
-- Book review for SIAM Review selected as Featured Review (Vol. 64, No. 2, 2022).
-- Member of the organizing committee for SIAM TXLA22 at UH, November 4-6, 2022.
-- Presented work at SIAM MDS22, San Diego, CA, and George Mason University.
-- Co-organized mini-symposia at SIAM MDS22 (w/ D. Labate) and SIAM IS22 (w/ G. Biros, M. Schulte, N. Charon).
-- Presented research at the Copper Mountain Conference, April 4-8, 2022.
+- Received the National Science Foundation CAREER Award (grant number DMS-2145845).
+- Received the Junior Faculty Award for Excellence in Research from the College of Natural Sciences and Mathematics at the University of Houston.
+- Book review selected as a Featured Review in SIAM Review (Volume 64, Number 2, 2022).
+- Member of the organizing committee of the SIAM Texas-Louisiana Annual Meeting at the University of Houston, November 4-6, 2022.
+- Co-organized (with A. Mamonov and D. Onofrei) a mini-symposium at the SIAM Texas-Louisiana Annual Meeting, University of Houston.
+- Co-organized (with D. Labate) a mini-symposium at the SIAM Conference on Mathematics of Data Science, San Diego, California.
+- Co-organized (with T. Bui-Thanh) a mini-symposium at the World Congress on Computational Mechanics, Yokohama, Japan.
+- Co-organized (with G. Biros and M. Schulte) a mini-symposium on optimization, learning, and modeling in medical imaging at the SIAM Conference on Imaging Sciences, Berlin, Germany.
+- Co-organized (with N. Charon) a mini-symposium on shape matching and morphometry at the SIAM Conference on Imaging Sciences, Berlin, Germany.
+- Presented work at the SIAM Conference on Mathematics of Data Science, San Diego, California.
+- Gave an invited talk at George Mason University, Fairfax, Virginia.
+- Presented work at the Copper Mountain Conference on Iterative Methods (held virtually), April 4-8, 2022.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2021</strong></summary>
 
-- Presented work at SIAM AN21, SIAM OP21, SIAM CSE21, and JMM.
-- Co-organized mini-symposia at SIAM OP21 (w/ G. Biros) and SIAM CSE21 (w/ H. Goh & T. Bui-Thanh).
-- Presented work at the Oden Institute seminar at UT Austin.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Optimization (held virtually).
+- Co-organized (with H. Goh and T. Bui-Thanh) a mini-symposium at the SIAM Conference on Computational Science and Engineering (held virtually).
+- Presented work at the SIAM Annual Meeting (held virtually).
+- Presented work at the SIAM Conference on Optimization (held virtually).
+- Presented work at the SIAM Conference on Computational Science and Engineering (held virtually).
+- Presented work at the Joint Mathematics Meetings (held virtually).
+- Gave an invited talk at the Oden Institute, University of Texas at Austin (held virtually).
 
 </details>
 
 <details markdown="1">
 <summary><strong>2020</strong></summary>
 
-- Saeed Sarmadi successfully defended his dissertation.
-- Presented work at SIAM TX-LA, SIAM IS, and SIAM MDS.
-- Co-organized mini-symposia at SIAM TX-LA (w/ S. Subramanian) and SIAM MDS (w/ D. Labate).
+- Saeed Sarmadi successfully defended his doctoral dissertation (co-advised with R. Azencott) in December 2020.
+- Co-organized (with S. Subramanian) a mini-symposium at the SIAM Texas-Louisiana Sectional Meeting (held virtually).
+- Co-organized (with D. Labate) a mini-symposium at the SIAM Conference on Mathematics of Data Science (held virtually).
+- Presented work at the SIAM Texas-Louisiana Sectional Meeting (held virtually).
+- Presented work at the SIAM Conference on Imaging Sciences (held virtually).
+- Presented work at the SIAM Conference on Mathematics of Data Science (held virtually).
 
 </details>
 
 <details markdown="1">
 <summary><strong>2019</strong></summary>
 
-- Presented work at NeurIPS Workshop, Society for Neuro-Oncology, AMS Sectional, ICIAM, AIP Conference, and other venues.
-- Visited University of Twente and ENS Paris-Saclay.
-- Co-organized mini-symposia at SIAM TX-LA (w/ T. Bui-Thanh), ICIAM (w/ J. Herring), AIP (w/ J. Herring), and SIAM CSE19 (w/ J. Herring & G. Biros).
+- Co-organized (with T. Bui-Thanh) a mini-symposium at the SIAM Texas-Louisiana Sectional Meeting, Southern Methodist University, Dallas, Texas.
+- Co-organized (with J. Herring) a mini-symposium at the International Congress on Industrial and Applied Mathematics, Valencia, Spain.
+- Co-organized (with J. Herring) a mini-symposium at the Applied Inverse Problems Conference, Saint-Martin-d'Hères, France.
+- Co-organized (with J. Herring and G. Biros) a mini-symposium at the SIAM Conference on Computational Science and Engineering, Spokane, Washington.
+- Gave an invited colloquium at the University of Twente, Enschede, the Netherlands.
+- Gave an invited talk at the École Normale Supérieure Paris-Saclay, Cachan, France.
+- Presented work at the Annual Meeting of the Society for Neuro-Oncology, Phoenix, Arizona.
+- Presented work at the American Mathematical Society Fall Central Sectional Meeting, Madison, Wisconsin.
+- Presented work at the International Congress on Industrial and Applied Mathematics, Valencia, Spain.
+- Presented work at the Applied Inverse Problems Conference, Grenoble, France.
+- Presented work at a workshop at the Conference on Neural Information Processing Systems.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2018</strong></summary>
 
-- Ms. Brenda Gonzalez received the Summer Undergraduate Research Fellowship.
-- Presented work at SIAM AN18, PMAA (ETH Zurich), SIAM IS18 (Bologna), and Rice University.
-- Visited the University of Stuttgart, June 11-22, 2018.
-- Co-organized (w/ G. Biros) a mini-symposium at SIAM IS18.
+- Brenda Gonzalez received the Summer Undergraduate Research Fellowship.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Imaging Sciences, Bologna, Italy.
+- Presented work at the SIAM Annual Meeting, Portland, Oregon.
+- Presented work at the International Workshop on Parallel Matrix Algorithms and Applications, ETH Zürich, Switzerland.
+- Presented work at the SIAM Conference on Imaging Sciences, Bologna, Italy.
+- Gave an invited colloquium at Rice University, Houston, Texas.
+- Visited the University of Stuttgart and gave an invited talk, June 11-22, 2018.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2017</strong></summary>
 
-- Amir Gholami won the Best Student Paper Award at SC17.
-- Work featured on the Texas Advanced Computing Center (TACC) website.
-- Presented work at USNCCM14, AIP Conference (Hangzhou), and SIAM CSE (Atlanta).
-- Co-organized (w/ G. Biros) a mini-symposium at SIAM CSE17.
+- Amir Gholami won the Best Student Paper Award at the International Conference for High Performance Computing (SC17), Denver, Colorado.
+- Work featured on the Texas Advanced Computing Center website.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Computational Science and Engineering, Atlanta, Georgia.
+- Presented work at the 14th United States National Congress on Computational Mechanics, Montréal, Québec, Canada.
+- Presented work at the Applied Inverse Problems Conference, Hangzhou, China.
+- Presented work at the SIAM Conference on Computational Science and Engineering, Atlanta, Georgia.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2016</strong></summary>
 
-- Presented work at SC16, SIAM IS (Albuquerque), SIAM UQ (Lausanne), and Emory University.
-- Co-organized (w/ G. Biros) a mini-symposium at SIAM IS16.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Imaging Sciences, Albuquerque, New Mexico.
+- Presented work at the International Conference for High Performance Computing (SC16), Salt Lake City, Utah.
+- Presented work at the SIAM Conference on Imaging Sciences, Albuquerque, New Mexico.
+- Presented work at the SIAM Conference on Uncertainty Quantification, Lausanne, Switzerland.
+- Gave an invited talk at Emory University, Atlanta, Georgia.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2015</strong></summary>
 
-- Attended SC15 in Austin.
-- Participated in IdeaLab at ICERM, Brown University.
-- Presented work at SIAM CSE15, TU Munich, and OCIP 2015.
-- Co-organized (w/ G. Biros) a mini-symposium at SIAM CSE15.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Computational Science and Engineering, Salt Lake City, Utah.
+- Participated in the IdeaLab at the Institute for Computational and Experimental Research in Mathematics, Brown University, Providence, Rhode Island.
+- Presented work at the SIAM Conference on Computational Science and Engineering, Salt Lake City, Utah.
+- Presented work at a workshop on numerical methods for optimal control and inverse problems at the Technical University of Munich, Germany.
+- Gave an invited lecture at the Technical University of Munich, Germany.
+- Attended the International Conference for High Performance Computing (SC15), Austin, Texas.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2014</strong></summary>
 
-- Presented talks at University of Luebeck, UT Austin (Germanic Studies and DiaMonD seminar).
-- Attended the DiaMonD All-Hands Meeting at MIT, November 12-14, 2014.
+- Gave an invited talk at the University of Lübeck, Germany, December 2014.
+- Gave a talk at the Department of Germanic Studies, University of Texas at Austin.
+- Gave a talk in the DiaMonD seminar at the University of Texas at Austin.
+- Attended the DiaMonD All-Hands Meeting at the Massachusetts Institute of Technology, Cambridge, Massachusetts, November 12-14, 2014.
 
 </details>

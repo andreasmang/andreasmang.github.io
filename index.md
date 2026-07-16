@@ -36,7 +36,7 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 
 ## Research Interests
 
-The goal of my research is the development, analysis, and deployment of computational and mathematical methods that integrate *data* with *simulation* and *optimization* with the aspiration to support *decision making* in challenging problems in the applied sciences.
+The goal of my research is the design of principled and scalable algorithms at the interface of machine learning, optimization, and scientific computing that integrate *data* with *simulation* to enable data-driven discovery in the applied sciences. I am interested in methods that combine the interpretability and predictive power of mechanistic models with the flexibility of learning, and in the numerical analysis that makes them trustworthy &mdash; stability, structure preservation, and a rigorous accounting of uncertainty. My work is driven by applications in medical imaging and the life sciences, and much of it is released as open-source software for GPU and supercomputing platforms.
 
 ## News
 
