@@ -3,6 +3,12 @@
 # (day defaults to 01 if only month/year is meaningful).
 # The `text` field accepts inline HTML.
 
+- date: 2026-07-19
+  text: >-
+    I am going to attend the
+    <a href="https://ilas2026.math.vt.edu">WCCM-ECCOMAS</a>
+    conference, Munich, DE, July 19&ndash;24
+
 - date: 2026-04-15
   text: >-
     I am going to attend the
