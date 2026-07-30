@@ -17,7 +17,7 @@ Through hands-on work with real datasets and statistical software, students buil
 
 The syllabus will be posted closer to the start of the semester.
 
-### Past Courses
+### Past Courses (University of Houston)
 
 #### Graduate Courses
 
