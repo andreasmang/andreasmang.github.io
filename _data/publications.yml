@@ -20,7 +20,7 @@
   venue: "Handbook of Numerical Analysis, Volume 27, 2026, Pages 425-485"
   year: 2026
   doi: "https://doi.org/10.1016/bs.hna.2026.03.001"
-  arxiv: "https://doi.org/10.48550/arXiv.2510.09796"
+  arxiv: "https://arxiv.org/abs/2510.09796"
   category: "bookchapter"
 
 - title: "Fast k-means clustering in Riemannian manifolds via Fréchet maps: Applications to large-dimensional SPD matrices"

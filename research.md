@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+description: "Research of Andreas Mang: inverse problems, PDE-constrained optimization, scientific machine learning, and scalable algorithms."
 ---
 
 I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](/publications/), and a selection of my [talks](/talks/) is also available.
@@ -38,25 +39,25 @@ The goal of my research is the design of principled and scalable algorithms at t
 <details markdown="1">
 <summary>Click to expand</summary>
 
-- Jannatul Chhoa, PhD Student (co-advised with Dr. He), 2021-2025
+- Jannatul Chhoa, PhD Student (co-advised with Dr. He), 2021&ndash;2025
 - Dinh Binh Le, Undergraduate Student (2025 SURF Recipient)
-- Radmir Sultamuratov, PhD Student (co-advised with Dr. Azencott), 2021-2024
-- Mayank Konduri, High School Student, 2023-2024
+- Radmir Sultamuratov, PhD Student (co-advised with Dr. Azencott), 2021&ndash;2024
+- Mayank Konduri, High School Student, 2023&ndash;2024
 - Anjalee Nair, Undergraduate Student (2024 SURF Recipient), Summer 2024
-- Li Meng, Graduate Student, 2023-2024
-- German Villalobos, PhD Student, 2020-2023
+- Li Meng, Graduate Student, 2023&ndash;2024
+- German Villalobos, PhD Student, 2020&ndash;2023
 - Brayan Gutierrez, Undergraduate Student (2023 SURF Recipient), Summer 2023
-- Jae Youn Kim, PhD Student, 2019-2023
+- Jae Youn Kim, PhD Student, 2019&ndash;2023
 - Danial Khan, Undergraduate Student (2022 SURF Recipient), Summer 2022
 - Gundeep Singh, Undergraduate Student (2021 PURS Recipient), Summer 2019 and Fall 2021
 - Ali Hamza Abidi Syed, Undergraduate Student (2021 PURS and SURF Recipient), Spring 2021 and Summer 2021
-- Hossein Dabirian, Graduate Student (co-advised with Dr. Azencott), 2019-2021
+- Hossein Dabirian, Graduate Student (co-advised with Dr. Azencott), 2019&ndash;2021
 - Yaseen Syed, Undergraduate Student (2021 PURS Recipient), Spring 2021
-- Saeed Sarmadi, PhD Student (co-advised with Dr. Azencott), 2017-2020
+- Saeed Sarmadi, PhD Student (co-advised with Dr. Azencott), 2017&ndash;2020
 - Haley Rosso, Undergraduate Student (2020 SURF Recipient), Summer 2020
-- James L. Herring, Postdoctoral Researcher, 2018-2019
-- Felix Huber, Visiting Graduate Student (co-advised with Dr. Mehl), 2018-2019
-- Erin Gabrysch, Graduate Student (co-advised with Dr. Quaini), 2018-2019
+- James L. Herring, Postdoctoral Researcher, 2018&ndash;2019
+- Felix Huber, Visiting Graduate Student (co-advised with Dr. Mehl), 2018&ndash;2019
+- Erin Gabrysch, Graduate Student (co-advised with Dr. Quaini), 2018&ndash;2019
 - Brenda Gonzalez, Undergraduate Honors Student (2018 SURF Recipient), Summer 2018
 - Orion Lowy, Undergraduate Student (co-advised with Dr. Bodmann), Summer 2018
 

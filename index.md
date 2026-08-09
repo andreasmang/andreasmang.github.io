@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Andreas Mang, Associate Professor of Mathematics, University of Houston &mdash; research, teaching, and news.
 ---
 
 <div class="home-grid">
@@ -19,7 +20,7 @@ I am an *Associate Professor* at the **Department of Mathematics** at the **Univ
 <dt>Office</dt><dd>Philip Guthrie Hoffman Hall (PGH), 614</dd>
 <dt>Address</dt><dd>3551 Cullen Blvd., Houston, TX 77204&ndash;3008</dd>
 <dt>Group</dt><dd>Numerical Analysis &amp; Scientific Computing</dd>
-<dt>Hours</dt><dd class="muted">Summer 2026: by appointment</dd>
+<dt>Hours</dt><dd class="muted">Fall 2026: by appointment</dd>
 </dl>
 
 <div class="social-links">
@@ -52,37 +53,51 @@ Information on open positions, graduate and undergraduate advising, and **letter
 ## Older News
 
 <details markdown="1">
+<summary><strong>2026</strong></summary>
+
+- Attended the WCCM-ECCOMAS congress in Munich, Germany, July 19&ndash;24, 2026.
+- Co-organized (with R. White (Sandia), L. L. R. Ramirez, and T. Bui-Thanh) a [workshop](https://www.birs.ca/events/2026/5-day-workshops/26w5632) at Casa Matem&aacute;tica Oaxaca, May 31&ndash;June 5, 2026.
+- Attended ILAS26 at Virginia Tech, Blacksburg, VA, May 18&ndash;22, 2026.
+- Gave a talk at the Department of Mathematics and Statistics at Texas A&M University&ndash;Corpus Christi, May 1, 2026.
+- Gave a talk at the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University, March 30, 2026.
+- Co-organized (with R. White (Sandia)) a mini-symposium at SIAM UQ26 in Minneapolis, MN, March 22&ndash;25, 2026.
+- Gave a virtual talk at the HPE Data Science Institute, University of Houston, February 26, 2026.
+- Long-term visitor at the ICERM special semester in Providence, RI, January 20&ndash;April 24, 2026.
+
+</details>
+
+<details markdown="1">
 <summary><strong>2025</strong></summary>
 
-- Attended the IMSI workshop "Optimal Control and Decision Making Under Uncertainty for Digital Twins" in Chicago, IL, October 27-31, 2025.
-- Co-organized (w/ E. Hartman & N. Charon (UHouston)) a mini-symposium on "Recent Advances in High-Dimensional and Geometric Data Analysis" at the 2025 SIAM TXLA Annual Meeting in Austin, TX, September 26-28, 2025.
+- Attended the IMSI workshop "Optimal Control and Decision Making Under Uncertainty for Digital Twins" in Chicago, IL, October 27&ndash;31, 2025.
+- Co-organized (with E. Hartman and N. Charon (UHouston)) a mini-symposium on "Recent Advances in High-Dimensional and Geometric Data Analysis" at the 2025 SIAM TX-LA Annual Meeting in Austin, TX, September 26&ndash;28, 2025.
 - Jannatul Chhoa successfully defended her dissertation.
-- Attended ICCOPT in Los Angeles, CA, July 19-24, 2025.
-- Attended SIAM AN25 in Montreal, Quebec, Canada, July 28-August 1, 2025.
+- Attended ICCOPT in Los Angeles, CA, July 19&ndash;24, 2025.
+- Attended SIAM AN25 in Montreal, Quebec, Canada, July 28&ndash;August 1, 2025.
 - Co-organized ChAMELEON summer school at the University of Houston, TX.
-- Participated in the "Inverse Methods for Complex Systems under Uncertainty ASCR Workshop" sponsored by the U.S. DOE, Washington, DC, June 10-12, 2025.
-- Co-organized (w/ A. K. Saibaba (NCState)) a mini-symposium on "Data- and Model-driven Approaches for Inverse Problems" at SIAM AN25 in Montreal.
-- Attended the NSF Computational Mathematics Meeting at the University of Utah, May 8-9, 2025.
-- Presented work at the TAMIDS SciML Summer School at Texas A&M, May 12-16, 2025.
-- Co-organized (w/ L. Cappanera, Y. He & M. Wang) the CBMS Conference "Research at the Interface of Applied Mathematics and Machine Learning" (NSF Award #2430460).
-- Co-organized (w/ J. Rudi & I.-G. Farcas) a mini-symposium at SIAM CSE25 in Fort Worth, TX, March 3-7, 2025.
-- Presented research at DTE & AICOMAS in Paris, France, February 17-21, 2025.
+- Participated in the "Inverse Methods for Complex Systems under Uncertainty ASCR Workshop" sponsored by the U.S. DOE, Washington, DC, June 10&ndash;12, 2025.
+- Co-organized (with A. K. Saibaba (NCState)) a mini-symposium on "Data- and Model-driven Approaches for Inverse Problems" at SIAM AN25 in Montreal.
+- Attended the NSF Computational Mathematics Meeting at the University of Utah, May 8&ndash;9, 2025.
+- Presented work at the TAMIDS SciML Summer School at Texas A&M, May 12&ndash;16, 2025.
+- Co-organized (with L. Cappanera, Y. He, and M. Wang) the CBMS Conference "Research at the Interface of Applied Mathematics and Machine Learning" (NSF Award DMS-2430460).
+- Co-organized (with J. Rudi and I.-G. Farcas) a mini-symposium at SIAM CSE25 in Fort Worth, TX, March 3&ndash;7, 2025.
+- Presented research at DTE & AICOMAS in Paris, France, February 17&ndash;21, 2025.
 
 </details>
 
 <details markdown="1">
 <summary><strong>2024</strong></summary>
 
-- Co-organized a mini-symposium (w/ M. Chung (Emory)) at SIAM MDS24, Atlanta, GA, October 21-25, 2024.
-- Co-organized a mini-symposium (w/ D. Onofrei (UHouston)) at SIAM TX-LA, Baylor University, Waco, TX, October 11-13, 2024.
-- Presented research at MOPTA at Lehigh University, Bethlehem, PA, August 14-16, 2024.
+- Co-organized a mini-symposium (with M. Chung (Emory)) at SIAM MDS24, Atlanta, GA, October 21&ndash;25, 2024.
+- Co-organized a mini-symposium (with D. Onofrei (UHouston)) at SIAM TX-LA, Baylor University, Waco, TX, October 11&ndash;13, 2024.
+- Presented research at MOPTA at Lehigh University, Bethlehem, PA, August 14&ndash;16, 2024.
 - Presented research at the INFORMS Optimization Society Conference at Rice University, Houston, TX.
-- Co-organized (w/ A. Arnold (WPI)) a mini-symposium at CMBE, George Mason University, Arlington, VA.
-- Co-organized (w/ J. Modersitzki (ULuebeck) & J. Lellmann (ULuebeck)) a mini-symposium at SIAM IS, Atlanta, GA.
-- Co-organized (w/ E. Newman (Emory) & S. Gamble (NREL)) a mini-symposium at SIAM IS, Atlanta, GA.
-- Presented work on CLAIRE at SIAM UQ24, Trieste, IT, February 27-March 1, 2024.
-- Co-organized (w/ A. Arnold (WPI)) a mini-symposium at SIAM UQ24, Trieste, IT.
-- Organized a SIAM Minisymposium at JMM24, San Francisco, January 3-6, 2024.
+- Co-organized (with A. Arnold (WPI)) a mini-symposium at CMBE, George Mason University, Arlington, VA.
+- Co-organized (with J. Modersitzki (ULuebeck) and J. Lellmann (ULuebeck)) a mini-symposium at SIAM IS, Atlanta, GA.
+- Co-organized (with E. Newman (Emory) and S. Gamble (NREL)) a mini-symposium at SIAM IS, Atlanta, GA.
+- Presented work on CLAIRE at SIAM UQ24, Trieste, IT, February 27&ndash;March 1, 2024.
+- Co-organized (with A. Arnold (WPI)) a mini-symposium at SIAM UQ24, Trieste, IT.
+- Organized a SIAM Minisymposium at JMM24, San Francisco, January 3&ndash;6, 2024.
 
 </details>
 

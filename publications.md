@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 heading: Selected Publications
+description: Selected publications by Andreas Mang, filterable by type and year.
 ---
 
 A more complete list of publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=CJc0_msAAAAJ&hl=en).

@@ -12,19 +12,19 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 - Jae Youn Kim successfully defended her doctoral dissertation in August 2023.
 - German Villalobos successfully defended his doctoral dissertation in December 2023.
 - Received the Award for Excellence in Research, Scholarship and Creative Activity from the Division of Research at the University of Houston.
-- Co-organized (with G. Biros, M. Schulte, and B. Menze) the Dagstuhl Seminar on inverse biophysical modeling and machine learning in personalized oncology, January 8-13, 2023.
+- Co-organized (with G. Biros, B. H. Menze, and M. Schulte) the Dagstuhl Seminar on inverse biophysical modeling and machine learning in personalized oncology, January 8&ndash;13, 2023.
 - Co-organized (with J. Rudi and T. Bui-Thanh) a mini-symposium at the SIAM Conference on Computational Science and Engineering, Amsterdam, the Netherlands.
 - Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Optimization, Seattle, Washington.
-- Co-organized (with A. Mamonov and D. Onofrei) a mini-symposium at the SIAM Texas-Louisiana Annual Meeting, Lafayette, Louisiana, November 3-5, 2023.
+- Co-organized (with A. Mamonov and D. Onofrei) a mini-symposium at the SIAM Texas-Louisiana Annual Meeting, Lafayette, Louisiana, November 3&ndash;5, 2023.
 - Gave an invited colloquium at Virginia Tech, Blacksburg, Virginia.
 - Gave an invited talk at Texas A&M University, College Station, Texas.
 - Gave an invited talk at the University of Kansas, Lawrence, Kansas.
 - Gave an invited colloquium at the University of Puerto Rico at Mayagüez.
 - Gave an invited talk at the National Institute of Standards and Technology, Boulder, Colorado.
-- Participated in a workshop on learning for inverse problems at the Istituto Nazionale di Alta Matematica, Rome, Italy, June 5-9, 2023.
-- Participated in a workshop on model- and data-driven methods in medical imaging at the Banff International Research Station, British Columbia, Canada, June 25-30, 2023.
-- Attended the 17th United States National Congress on Computational Mechanics, Albuquerque, New Mexico, July 23-27, 2023.
-- Attended a workshop on mathematical opportunities in digital twins at George Mason University, Fairfax, Virginia, December 11-13, 2023.
+- Participated in a workshop on learning for inverse problems at the Istituto Nazionale di Alta Matematica, Rome, Italy, June 5&ndash;9, 2023.
+- Participated in a workshop on model- and data-driven methods in medical imaging at the Banff International Research Station, British Columbia, Canada, June 25&ndash;30, 2023.
+- Attended the 17th United States National Congress on Computational Mechanics, Albuquerque, New Mexico, July 23&ndash;27, 2023.
+- Attended a workshop on mathematical opportunities in digital twins at George Mason University, Fairfax, Virginia, December 11&ndash;13, 2023.
 
 </details>
 
@@ -34,15 +34,15 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 - Received the National Science Foundation CAREER Award (grant number DMS-2145845).
 - Received the Junior Faculty Award for Excellence in Research from the College of Natural Sciences and Mathematics at the University of Houston.
 - Book review selected as a Featured Review in SIAM Review (Volume 64, Number 2, 2022).
-- Member of the organizing committee of the SIAM Texas-Louisiana Annual Meeting at the University of Houston, November 4-6, 2022.
+- Member of the organizing committee of the SIAM Texas-Louisiana Annual Meeting at the University of Houston, November 4&ndash;6, 2022.
 - Co-organized (with A. Mamonov and D. Onofrei) a mini-symposium at the SIAM Texas-Louisiana Annual Meeting, University of Houston.
 - Co-organized (with D. Labate) a mini-symposium at the SIAM Conference on Mathematics of Data Science, San Diego, California.
 - Co-organized (with T. Bui-Thanh) a mini-symposium at the World Congress on Computational Mechanics, Yokohama, Japan.
-- Co-organized (with G. Biros and M. Schulte) a mini-symposium on optimization, learning, and modeling in medical imaging at the SIAM Conference on Imaging Sciences, Berlin, Germany.
-- Co-organized (with N. Charon) a mini-symposium on shape matching and morphometry at the SIAM Conference on Imaging Sciences, Berlin, Germany.
+- Co-organized (with G. Biros and M. Schulte) a mini-symposium on optimization, learning, and modeling in medical imaging at the SIAM Conference on Imaging Science, Berlin, Germany.
+- Co-organized (with N. Charon) a mini-symposium on shape matching and morphometry at the SIAM Conference on Imaging Science, Berlin, Germany.
 - Presented work at the SIAM Conference on Mathematics of Data Science, San Diego, California.
 - Gave an invited talk at George Mason University, Fairfax, Virginia.
-- Presented work at the Copper Mountain Conference on Iterative Methods (held virtually), April 4-8, 2022.
+- Presented work at the Copper Mountain Conference on Iterative Methods (held virtually), April 4&ndash;8, 2022.
 
 </details>
 
@@ -66,7 +66,7 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 - Co-organized (with S. Subramanian) a mini-symposium at the SIAM Texas-Louisiana Sectional Meeting (held virtually).
 - Co-organized (with D. Labate) a mini-symposium at the SIAM Conference on Mathematics of Data Science (held virtually).
 - Presented work at the SIAM Texas-Louisiana Sectional Meeting (held virtually).
-- Presented work at the SIAM Conference on Imaging Sciences (held virtually).
+- Presented work at the SIAM Conference on Imaging Science (held virtually).
 - Presented work at the SIAM Conference on Mathematics of Data Science (held virtually).
 
 </details>
@@ -92,12 +92,12 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 <summary><strong>2018</strong></summary>
 
 - Brenda Gonzalez received the Summer Undergraduate Research Fellowship.
-- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Imaging Sciences, Bologna, Italy.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Imaging Science, Bologna, Italy.
 - Presented work at the SIAM Annual Meeting, Portland, Oregon.
 - Presented work at the International Workshop on Parallel Matrix Algorithms and Applications, ETH Zürich, Switzerland.
-- Presented work at the SIAM Conference on Imaging Sciences, Bologna, Italy.
+- Presented work at the SIAM Conference on Imaging Science, Bologna, Italy.
 - Gave an invited colloquium at Rice University, Houston, Texas.
-- Visited the University of Stuttgart and gave an invited talk, June 11-22, 2018.
+- Visited the University of Stuttgart and gave an invited talk, June 11&ndash;22, 2018.
 
 </details>
 
@@ -116,9 +116,9 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 <details markdown="1">
 <summary><strong>2016</strong></summary>
 
-- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Imaging Sciences, Albuquerque, New Mexico.
+- Co-organized (with G. Biros) a mini-symposium at the SIAM Conference on Imaging Science, Albuquerque, New Mexico.
 - Presented work at the International Conference for High Performance Computing (SC16), Salt Lake City, Utah.
-- Presented work at the SIAM Conference on Imaging Sciences, Albuquerque, New Mexico.
+- Presented work at the SIAM Conference on Imaging Science, Albuquerque, New Mexico.
 - Presented work at the SIAM Conference on Uncertainty Quantification, Lausanne, Switzerland.
 - Gave an invited talk at Emory University, Atlanta, Georgia.
 
@@ -142,6 +142,6 @@ This page archives news from 2023 and earlier. For recent updates, see the [home
 - Gave an invited talk at the University of Lübeck, Germany, December 2014.
 - Gave a talk at the Department of Germanic Studies, University of Texas at Austin.
 - Gave a talk in the DiaMonD seminar at the University of Texas at Austin.
-- Attended the DiaMonD All-Hands Meeting at the Massachusetts Institute of Technology, Cambridge, Massachusetts, November 12-14, 2014.
+- Attended the DiaMonD All-Hands Meeting at the Massachusetts Institute of Technology, Cambridge, Massachusetts, November 12&ndash;14, 2014.
 
 </details>

@@ -11,10 +11,6 @@ exclude:
   - README.md
   - LICENSE
 
-collections:
-  pages:
-    output: true
-
 defaults:
   - scope:
       path: ""

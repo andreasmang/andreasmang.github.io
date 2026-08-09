@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Teaching
+description: Courses taught by Andreas Mang, with syllabi and recommended references.
 ---
 
 Below you can find a list of courses I am currently teaching as well as courses I have taught in the past. Courses marked with a **\*** are new courses I have developed.
 
 ### Upcoming Courses (Fall 2026)
 
-**MATH 166 -- Statistics**
+**MATH 166 &ndash; Statistics**
 
 This course introduces the foundational ideas and methods of modern statistics, emphasizing reasoning from data, probabilistic modeling, and practical analysis. Students learn how statisticians design studies, summarize and visualize data, quantify uncertainty, and draw conclusions through statistical inference.
 
@@ -22,7 +23,7 @@ The syllabus will be posted closer to the start of the semester.
 #### Graduate Courses
 
 <details markdown="1">
-<summary>MATH 6397 -- Computational and Mathematical Methods in Data Science*</summary>
+<summary>MATH 6397 &ndash; Computational and Mathematical Methods in Data Science*</summary>
 
 Rapid advancements in machine learning and data science have been fueled by significant advances in computing. In the age of big data, there is a push to integrate model-based and data-driven frameworks to enable real-time decision-making. This leads to the notion of digital-twin technologies. This course provides students with the mathematical background needed to analyze, implement, and further develop numerical methods at the heart of data-enabled sciences. It is geared towards students who are interested in strengthening their theoretical foundation and honing their skills as a computational scientist and computational mathematician in the emerging field of data science and machine learning. We will review traditional approaches and explore state-of-the-art methods. This course will be a hands-on experience; while the classes will cover both theory and implementation aspects, the main focus of the assignments will be on implementation aspects. Students will learn how to write mathematical code to solve data science problems. The focus is not to apply existing methods but rather to understand the foundational concepts by implementing mathematically sound methods from scratch.
 
@@ -36,7 +37,7 @@ Rapid advancements in machine learning and data science have been fueled by sign
 </details>
 
 <details markdown="1">
-<summary>MATH 6397 -- Bayesian Inverse Problems and UQ*</summary>
+<summary>MATH 6397 &ndash; Bayesian Inverse Problems and UQ*</summary>
 
 Inverse problems are of paramount importance and can be found in virtually all scientific disciplines with applications ranging from medicine, geophysics, to engineering. This course covers the mathematical background needed to analyze and further develop numerical methods for Bayesian (statistical) inverse problems and uncertainty quantification. First, we will revisit some theoretical foundations of inverse problems and strategies to their solution. Subsequently, we will transition to topics surrounding statistical inverse problems. Potential topics include relevant theory from discrete probability; statistical computing; sampling methods; modern regularization techniques; prior modeling; MAP estimation and Laplace approximation; variational inference; optimization under uncertainty; matrix data and latent factor models; and dimensionality reduction.
 
@@ -49,7 +50,7 @@ Inverse problems are of paramount importance and can be found in virtually all s
 </details>
 
 <details markdown="1">
-<summary>MATH 6397 -- Applied Inverse Problems*</summary>
+<summary>MATH 6397 &ndash; Applied Inverse Problems*</summary>
 
 Inverse problems are of paramount importance and can be found in virtually all scientific disciplines with applications ranging from medicine, geophysics, to engineering. This course introduces the theoretical foundations of inverse problems and strategies to their numerical solution. We will consider applications in data and physical sciences. Starting from first principles we will discuss how to design and analyze direct and iterative methods for efficiently solving different classes of inverse problems. Students will get to explore the design of computational strategies to solve these problems. Examples studied in the class will be selected from different areas of computational sciences and engineering, including deblurring, imaging, and continuum mechanics.
 
@@ -62,7 +63,7 @@ Inverse problems are of paramount importance and can be found in virtually all s
 </details>
 
 <details markdown="1">
-<summary>MATH 6367 -- Optimization Theory II</summary>
+<summary>MATH 6367 &ndash; Optimization Theory II</summary>
 
 The course will start with some modern topics in convex optimization. We will discuss splitting methods, primal dual methods, and Bregman iterative methods. In addition, this course provides an introduction to the modern control theory of dynamic systems, emphasizing key results and characteristics. It covers both linear and nonlinear systems in continuous-time and discrete-time formats, focusing on finite state spaces within deterministic and stochastic frameworks. The course also addresses continuous-time stochastic control problems commonly encountered in modern control theory, as well as discrete-time Markovian decision problems typical in operations research. Additionally, simulation-based approximation techniques for dynamic programming are discussed.
 
@@ -75,7 +76,7 @@ The course will start with some modern topics in convex optimization. We will di
 </details>
 
 <details markdown="1">
-<summary>MATH 6366 -- Optimization Theory I</summary>
+<summary>MATH 6366 &ndash; Optimization Theory I</summary>
 
 This course introduces the theoretical foundations of optimization and strategies to its numerical solution. Starting from first principles we will discuss how to design and analyze simple iterative methods for efficiently solving a broad class of optimization problems. While the field of optimization is vast, there exists a small set of methods that achieve optimal performance. We will assess the efficiency of these techniques on prototypical optimization problems. This class will walk through classic results and provide a gateway to cutting edge research in the field.
 
@@ -97,7 +98,7 @@ Code examples are available at [github.com/andreasmang/optik](https://github.com
 #### Undergraduate Courses
 
 <details markdown="1">
-<summary>MATH 3336 -- Discrete Mathematics</summary>
+<summary>MATH 3336 &ndash; Discrete Mathematics</summary>
 
 This course is an introduction to proofs and the abstract approach that characterizes upper-level mathematics courses. It serves as a transition to advanced mathematics, and ideally is taken after the initial calculus sequence and before (or concurrently with) mid-level mathematics courses. The objective is for students to develop the skills and techniques they will need as they study any type of advanced mathematics, whether pure or applied. In particular, this course covers topics that are ubiquitous throughout mathematics (e.g., logic, sets, relations, functions) and helps prepare students for classes such as Real Analysis, Abstract Algebra, and Advanced Linear Algebra. The course provides a careful treatment of logic, proofs, sets, functions, and mathematical reasoning. Using this basis, counting techniques are studied thoroughly.
 
@@ -112,7 +113,7 @@ This course is an introduction to proofs and the abstract approach that characte
 </details>
 
 <details markdown="1">
-<summary>MATH 2318 / MATH 2331 -- Linear Algebra</summary>
+<summary>MATH 2318 / MATH 2331 &ndash; Linear Algebra</summary>
 
 Linear Algebra, rich in applications within mathematics and many other disciplines, is potentially the most interesting and worthwhile undergraduate mathematics course you will complete. For many of you this is the first course to begin bridging the gap between concrete computations and abstract reasoning. Later in your career, computers will do the calculations, but you will have to choose the calculations, know how to interpret the results, and then explain the results to others. Understanding the notions of vector spaces, linear (in)dependence, dimension, and linear transformations will help you make sense of matrix manipulations at a deeper level, clarifying the underlying structure. A key aim of this course is that you will not only be equipped with a computational ability but with the ability to use these notions in their natural scientific contexts, and with an appreciation of their mathematical beauty and power.
 

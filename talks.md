@@ -5,9 +5,9 @@ heading: Selected Talks
 description: Selected invited and conference talks by Andreas Mang.
 ---
 
-A selection of invited seminars and conference talks. A full list is available in my [curriculum vitae](/vitae/).
+A selection of invited seminars and conference talks, listed most recent first.
 
-- *Manifold-valued data: classification, clustering, and embeddings.* Texas A&M University Corpus Christi, TX, 2026.
+- *Manifold-valued data: classification, clustering, and embeddings.* Texas A&M University&ndash;Corpus Christi, TX, 2026.
 - *Principled computational methods informed by Riemannian geometry.* Rice University, Houston, TX, 2026.
 - *Principled algorithms for model- and data-driven discovery.* HPE Data Science Institute, University of Houston, 2026.
 - *Tensor-based surrogate models for digital twin applications in brain cancer dynamics.* JMM26, Washington, DC, 2026.
