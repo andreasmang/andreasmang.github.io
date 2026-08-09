@@ -4,7 +4,7 @@ title: Research
 description: "Research of Andreas Mang: inverse problems, PDE-constrained optimization, scientific machine learning, and scalable algorithms."
 ---
 
-I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](/publications/), and a selection of my [talks](/talks/) is also available.
+I am a member of the Numerical Analysis & Scientific Computing group. I am the head of the **SCOPA** (Scientific Computing, Optimization, and Parallel Algorithms) lab. You can find more information on the [SCOPA webpage](https://scopagroup.github.io). A list of my publications is available [here](/publications/), and a list of my [talks](/vitae/#talks) is on the vitae page.
 
 My key research areas include:
 
