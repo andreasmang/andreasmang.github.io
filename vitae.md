@@ -15,7 +15,8 @@ description: "Curriculum vitae of Andreas Mang: appointments, professional prepa
     <tr><th>Period</th><th>Position</th></tr>
   </thead>
   <tbody>
-    <tr><td>09/23 &ndash;</td><td><strong>Associate Professor</strong>, Department of Mathematics, University of Houston</td></tr>
+    <tr><td>09/26 &ndash;</td><td><strong>Associate Professor</strong>, Department of Mathematics, Tufts University</td></tr>
+    <tr><td>09/23 &ndash; 08/26</td><td><strong>Associate Professor</strong>, Department of Mathematics, University of Houston</td></tr>
     <tr><td>09/17 &ndash; 08/23</td><td><strong>Assistant Professor</strong>, Department of Mathematics, University of Houston</td></tr>
   </tbody>
 </table>
@@ -61,7 +62,7 @@ description: "Curriculum vitae of Andreas Mang: appointments, professional prepa
 <details markdown="1">
 <summary>Narrative Resume</summary>
 
-Andreas Mang is an Associate Professor at the Department of Mathematics of the University of Houston. He received his PhD from the University of Luebeck (DE) in 2013. Subsequently, he joined the Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin (US) in 2013 for a postdoctoral fellowship. In 2017, he joined the Department of Mathematics at the University of Houston (US), where he currently holds a position as an Associate Professor of Mathematics. His research interests include statistical and deterministic inverse problems, nonlinear optimal control, numerical optimization, data-enabled sciences, and parallel scientific computing. He works on the design, analysis, and deployment of effective numerical methods and parallel algorithms that deliver optimal performance and scale on high-performance computing platforms. In 2022, he received the NSF CAREER award.
+Andreas Mang is an Associate Professor at the Department of Mathematics of Tufts University. He received his PhD from the University of Luebeck (DE) in 2013. Subsequently, he joined the Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin (US) in 2013 for a postdoctoral fellowship. In 2017, he joined the Department of Mathematics at the University of Houston (US), where he was promoted to Associate Professor in 2023. In 2026, he joined the Department of Mathematics at Tufts University (US), where he currently holds a position as an Associate Professor of Mathematics. He heads the SCOPA (Scientific Computing, Optimization, and Parallel Algorithms) lab. His research concerns the design and analysis of principled, scalable algorithms at the interface of machine learning, optimization, and scientific computing that integrate data with simulation to enable data-driven discovery in the applied sciences. His interests include inverse problems and PDE-constrained optimization, scientific machine learning and data-driven modeling, numerical optimization, nonlinear optimal control, uncertainty quantification and Bayesian inference, tensor methods, model reduction and surrogate modeling, geometric methods for the analysis of shapes and manifold-valued data, and scalable, parallel, and GPU-accelerated algorithms. A central theme of his work is bringing the standards of numerical analysis (stability, structure preservation, and a rigorous accounting of uncertainty) to methods that learn from data. Much of this work is driven by applications in medical imaging and the life sciences, and is released as open-source software that scales from a workstation to a supercomputer. In 2022, he received the NSF CAREER award.
 
 </details>
 

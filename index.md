@@ -1,25 +1,24 @@
 ---
 layout: default
 title: Home
-description: Andreas Mang, Associate Professor of Mathematics, University of Houston &mdash; research, teaching, and news.
+description: Andreas Mang, Associate Professor of Mathematics, Tufts University &mdash; research, teaching, and news.
 ---
 
 <div class="home-grid">
 <div class="home-bio" markdown="1">
 
 <p class="bio-name">Andreas Mang &ensp;<span class="text-muted" style="font-weight:400;font-size:0.85rem;">[/an'dre:as mang/]</span></p>
-<p class="bio-role">Associate Professor &middot; Department of Mathematics &middot; University of Houston <span class="role-transition">&rarr; Tufts University (Fall 2026)</span></p>
+<p class="bio-role">Associate Professor &middot; Department of Mathematics &middot; Tufts University</p>
 
-I am an *Associate Professor* at the **Department of Mathematics** at the **University of Houston**. On this page you can find information about my [research](/research/) and the [classes I teach](/teaching/).
+I am an *Associate Professor* at the **Department of Mathematics** at **Tufts University**. On this page you can find information about my [research](/research/) and the [classes I teach](/teaching/).
 
-<p class="announcement" markdown="1">**I will join the Department of Mathematics at Tufts University in Fall 2026.**</p>
+<p class="announcement" markdown="1">**I joined the Department of Mathematics at Tufts University in Fall 2026.** Please use my new contact information below; my University of Houston address is no longer active.</p>
 
 <dl class="contact-compact">
-<dt>Email</dt><dd><a href="mailto:andreas@math.uh.edu">andreas@math.uh.edu</a></dd>
-<dt>Phone</dt><dd><a href="tel:+17137437409">(+1) 713-743-7409</a></dd>
-<dt>Office</dt><dd>Philip Guthrie Hoffman Hall (PGH), 614</dd>
-<dt>Address</dt><dd>3551 Cullen Blvd., Houston, TX 77204&ndash;3008</dd>
-<dt>Group</dt><dd>Numerical Analysis &amp; Scientific Computing</dd>
+<dt>Email</dt><dd><a href="mailto:andreas.mang@tufts.edu">andreas.mang@tufts.edu</a></dd>
+<dt>Office</dt><dd>Joyce Cummings Center (JCC), 565</dd>
+<dt>Address</dt><dd>177 College Avenue, Medford, MA 02155</dd>
+<dt>Group</dt><dd>Computational and Applied Mathematics</dd>
 <dt>Hours</dt><dd class="muted">Fall 2026: by appointment</dd>
 </dl>
 

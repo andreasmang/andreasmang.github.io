@@ -9,7 +9,7 @@ description: Conferences, workshops, and summer schools organized by Andreas Man
 
 **SIAM Conference on Mathematics of Data Science (MDS26)**
 
-Organizing Committee Co-Chairs: A. Mang (University of Houston), R. Morrison (University of Colorado Boulder), and R. Willett (University of Chicago).
+Organizing Committee Co-Chairs: A. Mang (Tufts University), R. Morrison (University of Colorado Boulder), and R. Willett (University of Chicago).
 
 Salt Palace Convention Center, Salt Lake City, Utah, November 16&ndash;20, 2026
 

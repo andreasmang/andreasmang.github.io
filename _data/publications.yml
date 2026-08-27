@@ -1,7 +1,15 @@
 # Sorted by year (newest first)
 
 
-- title: "Tensor-Based Reduced-Order Modeling for Optimization-Based Inverse Problems"
+- title: "Optimal control of RKHS diffeomorphic flows for classification and generative modeling"
+  authors: "with Christopher Chukwuemeka"
+  venue: ""
+  year: 2026
+  arxiv: "TBD"
+  category: "preprint"
+
+
+- title: "Tensor-based reduced-order modeling for optimization-based inverse problems"
   authors: "with Sahidul Islam & Maxim Olshanskii"
   venue: ""
   year: 2026

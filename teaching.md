@@ -6,7 +6,7 @@ description: Courses taught by Andreas Mang, with syllabi and recommended refere
 
 Below you can find a list of courses I am currently teaching as well as courses I have taught in the past. Courses marked with a **\*** are new courses I have developed.
 
-### Upcoming Courses (Fall 2026)
+### Upcoming Courses (Tufts University, Fall 2026)
 
 **MATH 166 &ndash; Statistics**
 
