@@ -19,7 +19,7 @@ I am an *Associate Professor* at the **Department of Mathematics** at **Tufts Un
 <dt>Office</dt><dd>Joyce Cummings Center (JCC), 565</dd>
 <dt>Address</dt><dd>177 College Avenue, Medford, MA 02155</dd>
 <dt>Group</dt><dd>Computational and Applied Mathematics</dd>
-<dt>Hours</dt><dd class="muted">Fall 2026: by appointment</dd>
+<dt>Hours</dt><dd class="muted">Fall 2026: MW 2:00PM&ndash;3:00PM or by appointment</dd>
 </dl>
 
 <div class="social-links">

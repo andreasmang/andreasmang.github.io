@@ -10,13 +10,17 @@ Below you can find a list of courses I am currently teaching as well as courses 
 
 **MATH 166 &ndash; Statistics**
 
-This course introduces the foundational ideas and methods of modern statistics, emphasizing reasoning from data, probabilistic modeling, and practical analysis. Students learn how statisticians design studies, summarize and visualize data, quantify uncertainty, and draw conclusions through statistical inference.
+**Course Description:** This course introduces the foundational ideas and methods of modern statistics, emphasizing reasoning from data, probabilistic modeling, and practical analysis. Students learn how statisticians design studies, summarize and visualize data, quantify uncertainty, and draw conclusions through statistical inference.
 
 Topics include descriptive statistics, probability distributions, random variables, sampling methods, confidence intervals, hypothesis testing, regression, correlation, and an introduction to predictive modeling. The course also examines how statistical results are interpreted and communicated across scientific, social, and applied settings.
 
 Through hands-on work with real datasets and statistical software, students build the technical skills to analyze data and the critical judgment to evaluate the statistical claims.
 
-The syllabus will be posted closer to the start of the semester.
+**Syllabus:** The syllabus will be posted closer to the start of the semester.
+
+**Class Time & Place:** MW 4:30PM&ndash;5:45PM in Joyce Cummings Center (JCC), Room 180 
+
+**Office Hours:** MW 2:00PM&ndash;3:00PM or by appointment (<a href="mailto:andreas.mang@tufts.edu">andreas.mang@tufts.edu</a>)
 
 ### Past Courses (University of Houston)
 
