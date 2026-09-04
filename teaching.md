@@ -16,7 +16,7 @@ Topics include descriptive statistics, probability distributions, random variabl
 
 Through hands-on work with real datasets and statistical software, students build the technical skills to analyze data and the critical judgment to evaluate the statistical claims.
 
-**Syllabus:** The syllabus will be posted closer to the start of the semester.
+**Syllabus:** The syllabus is posted on <a href="https://canvas.tufts.edu">Canvas</a>.
 
 **Class Time & Place:** MW 4:30PM&ndash;5:45PM in Joyce Cummings Center (JCC), Room 180 
 
