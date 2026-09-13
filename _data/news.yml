@@ -7,6 +7,14 @@
 # Items whose event has passed are moved to the "Older News" section of index.md.
 # The `text` field accepts inline HTML.
 
+- date: 2027-06-27
+  text: >-
+    Co-organizing (with M. Olshanskii (UHouston)) a mini-symposium on
+    "Model Reduction and Scientific Machine Learning for Parametric PDEs"
+    at <a href="https://coupled2027.cimne.com">COUPLED PROBLEMS 2027</a>
+    in Palma de Mallorca (Mallorca Island), Spain,
+    June 27&ndash;30, 2027
+
 - date: 2026-11-16
   text: >-
     Co-chair for SIAM Conference on Mathematics of Data Science
