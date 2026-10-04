@@ -6,21 +6,49 @@ description: Courses taught by Andreas Mang, with syllabi and recommended refere
 
 Below you can find a list of courses I am currently teaching as well as courses I have taught in the past. Courses marked with a **\*** are new courses I have developed.
 
-### Upcoming Courses (Tufts University, Fall 2026)
+### Current Courses (Tufts University, Fall 2026)
 
 **MATH 166 &ndash; Statistics**
 
-**Course Description:** This course introduces the foundational ideas and methods of modern statistics, emphasizing reasoning from data, probabilistic modeling, and practical analysis. Students learn how statisticians design studies, summarize and visualize data, quantify uncertainty, and draw conclusions through statistical inference.
+**Course Description:** Whenever we estimate a quantity from data, we have to ask how good the estimate is. How large is the error? How confident can we be in the result? Is an observed effect real, or could it be due to chance? This course covers the mathematical foundations of statistics that answer these questions: how to construct estimators, how to quantify their uncertainty, and how to draw conclusions from data.
 
-Topics include descriptive statistics, probability distributions, random variables, sampling methods, confidence intervals, hypothesis testing, regression, correlation, and an introduction to predictive modeling. The course also examines how statistical results are interpreted and communicated across scientific, social, and applied settings.
+Topics include a review of probability, including the law of large numbers and the central limit theorem; the basics of statistical inference; estimation of distribution functions and statistical functionals; the method of moments and maximum likelihood estimation; bias, variance, and mean squared error; confidence intervals and the delta method; hypothesis testing and p-values; tests for independence; Bayesian inference; and linear and nonparametric regression.
 
-Through hands-on work with real datasets and statistical software, students build the technical skills to analyze data and the critical judgment to evaluate the statistical claims.
+We study each topic from two angles: mathematically, by deriving estimators and proving their properties, and computationally, by using simulations in Python, MATLAB, or R to check analytical results. There are two midterm exams and a cumulative final exam.
+
+**Prerequisites:** MATH 165 or EE 104 (credit or concurrent enrollment), or graduate standing.
+
+**Textbook:** Wasserman, *All of Statistics*, Springer (2005).
 
 **Syllabus:** The syllabus is posted on <a href="https://canvas.tufts.edu">Canvas</a>.
 
-**Class Time & Place:** MW 4:30PM&ndash;5:45PM in Joyce Cummings Center (JCC), Room 180 
+**Class Time & Place:** MW 4:30PM&ndash;5:45PM in Joyce Cummings Center (JCC), Room 180
 
 **Office Hours:** MW 2:00PM&ndash;3:00PM or by appointment (<a href="mailto:andreas.mang@tufts.edu">andreas.mang@tufts.edu</a>)
+
+Code examples are available at [github.com/andreasmang/stan](https://github.com/andreasmang/stan).
+
+### Upcoming Courses (Tufts University, Spring 2027)
+
+**MATH 126 / CS 126 &ndash; Numerical Linear Algebra**
+
+**Course Description:** Fitting a model to data, simulating diffusion, or reconstructing a CT image all lead to solving *Ax = b* or computing the eigenvalues of a matrix. On a computer, the matrices are large and every operation is rounded. This raises questions that you do not see in a first course in linear algebra: How much work does an algorithm need? How accurate is the computed answer? Is the problem itself sensitive, or is the algorithm the issue? In this course, we develop, analyze, and implement algorithms that answer them.
+
+Topics include floating-point arithmetic, norms, and condition numbers; stability of algorithms and backward error analysis; direct methods for linear systems (LU factorization with pivoting, Cholesky factorization); QR factorization and least-squares problems; the singular value decomposition; algorithms for eigenvalue problems (power iteration, inverse iteration, the QR algorithm); and iterative methods for large, sparse systems (Jacobi, Gauss&ndash;Seidel, GMRES, conjugate gradients). We will also look at connections to optimization and at randomized algorithms such as the randomized SVD.
+
+We study each topic from two angles: mathematically, by deriving algorithms and proving that they work, and computationally, by implementing and testing them in MATLAB, Python, or Julia. Instead of a final exam, students complete a project in a small group and present it at the end of the semester.
+
+**Prerequisites:** MATH 70 or 72 and CS 11 (recommended).
+
+**Textbooks:** Börgers, *Introduction to Numerical Linear Algebra*, SIAM (2022); Trefethen and Bau, *Numerical Linear Algebra*, SIAM (2022); Boyd and Vandenberghe, *Introduction to Applied Linear Algebra*, Cambridge (2018).
+
+**Syllabus:** The syllabus will be posted on <a href="https://canvas.tufts.edu">Canvas</a> at the start of the semester.
+
+**Class Time & Place:** TBD
+
+**Office Hours:** TBD
+
+Code examples will be available at [github.com/andreasmang/alan](https://github.com/andreasmang/alan).
 
 ### Past Courses (University of Houston)
 
