@@ -7,7 +7,6 @@
   year: 2026
   category: "preprint"
 
-
 - title: "Tensor-based reduced-order modeling for optimization-based inverse problems"
   authors: "with Sahidul Islam & Maxim Olshanskii"
   venue: ""
@@ -37,19 +36,19 @@
   arxiv: "https://arxiv.org/abs/2511.08993"
   category: "preprint"
 
-- title: "VPreg: An optimal control formulation for diffeomorphic image registration based on the variational principle grid generation method"
-  authors: "with Zhongjie Zhou, Bao Zhao & Guojun Liao"
-  venue: ""
-  year: 2025
-  arxiv: "https://arxiv.org/abs/2510.13109"
-  category: "preprint"
-
 - title: "A generalized alternating NGMRES method for PDE-constrained optimization problems governed by transport equations"
   authors: "with Yunhui He"
   venue: ""
   year: 2025
   arxiv: "https://doi.org/10.48550/arXiv.2510.08782"
   category: "preprint"
+
+- title: "VPreg: An optimal control formulation for diffeomorphic image registration based on the variational principle grid generation method"
+  authors: "with Zhongjie Zhou, Bao Zhao & Guojun Liao"
+  venue: "SIAM Journal on Imaging Sciences"
+  year: 2026
+  arxiv: "https://arxiv.org/abs/2510.13109"
+  category: "journal"
 
 - title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
   authors: "with German Villalobos & Johann Rudi"
