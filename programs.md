@@ -15,6 +15,8 @@ Salt Palace Convention Center, Salt Lake City, Utah, November 16&ndash;20, 2026
 
 [Conference webpage](https://www.siam.org/mds26) &middot; [Conference flyer](/assets/docs/MDS26-flyer.pdf)
 
+<p class="announcement" markdown="1">**New in SIAM News:** [*MDS26 asks how artificial intelligence is changing the mathematics of data science*](https://www.siam.org/publications/siam-news/articles/mds26-asks-how-artificial-intelligence-is-changing-the-mathematics-of-data-science/), an article on the conference by the organizing committee co-chairs A. Mang, R. Morrison, and R. Willett.</p>
+
 MDS26 is the conference of the [SIAM Activity Group on Data Science](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/data-science/). It brings together researchers and practitioners from academia, industry, government, and the national laboratories to explore advances in the mathematical foundations of data science. Presentations highlight advances in mathematical, statistical, and computational methods that shape how data are analyzed, modeled, and used to inform decision-making, spanning foundational theory through real-world applications. A particular focus of this edition is the mathematics of data science in high dimensions, with topics such as dimensionality reduction and embeddings, scalability and parallel algorithms, and algebraic and geometric data analysis.
 
 MDS26 will be held jointly with the SIAM Conference on Imaging Science (IS26) and the SIAM International Conference on Data Mining (SDM26).
