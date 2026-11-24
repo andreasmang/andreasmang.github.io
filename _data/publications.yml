@@ -22,14 +22,6 @@
   arxiv: "https://arxiv.org/abs/2603.14101"
   category: "preprint"
 
-- title: "A unified framework for lifted training and inversion approaches"
-  authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
-  venue: "Handbook of Numerical Analysis, Volume 27, 2026, Pages 425-485"
-  year: 2026
-  doi: "https://doi.org/10.1016/bs.hna.2026.03.001"
-  arxiv: "https://arxiv.org/abs/2510.09796"
-  category: "bookchapter"
-
 - title: "Fast k-means clustering in Riemannian manifolds via Fréchet maps: Applications to large-dimensional SPD matrices"
   authors: "with Ji Shi, Nicolas Charon, Demetrio Labate & Robert Azencott"
   venue: ""
@@ -37,19 +29,28 @@
   arxiv: "https://arxiv.org/abs/2511.08993"
   category: "preprint"
 
-- title: "A generalized alternating NGMRES method for PDE-constrained optimization problems governed by transport equations"
-  authors: "with Yunhui He"
-  venue: ""
-  year: 2025
-  arxiv: "https://doi.org/10.48550/arXiv.2510.08782"
-  category: "preprint"
-
 - title: "VPreg: An optimal control formulation for diffeomorphic image registration based on the variational principle grid generation method"
   authors: "with Zhongjie Zhou, Bao Zhao & Guojun Liao"
   venue: "SIAM Journal on Imaging Sciences"
   year: 2026
   arxiv: "https://arxiv.org/abs/2510.13109"
-  category: "journal"
+  category: "preprint"
+
+- title: "A generalized alternating NGMRES method for PDE-constrained optimization problems governed by transport equations"
+  authors: "with Yunhui He"
+  venue: "Journal of Numerical Mathematics"
+  year: 2026
+  doi: "https://doi.org/10.1515/jnma-2025-0174"
+  arxiv: "https://doi.org/10.48550/arXiv.2510.08782"
+  category: "preprint"
+
+- title: "A unified framework for lifted training and inversion approaches"
+  authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
+  venue: "Handbook of Numerical Analysis, Volume 27, 2026, Pages 425-485"
+  year: 2026
+  doi: "https://doi.org/10.1016/bs.hna.2026.03.001"
+  arxiv: "https://arxiv.org/abs/2510.09796"
+  category: "bookchapter"
 
 - title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
   authors: "with German Villalobos & Johann Rudi"
