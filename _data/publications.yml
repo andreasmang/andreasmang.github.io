@@ -22,13 +22,6 @@
   arxiv: "https://arxiv.org/abs/2603.14101"
   category: "preprint"
 
-- title: "Fast k-means clustering in Riemannian manifolds via Fréchet maps: Applications to large-dimensional SPD matrices"
-  authors: "with Ji Shi, Nicolas Charon, Demetrio Labate & Robert Azencott"
-  venue: ""
-  year: 2025
-  arxiv: "https://arxiv.org/abs/2511.08993"
-  category: "preprint"
-
 - title: "VPreg: An optimal control formulation for diffeomorphic image registration based on the variational principle grid generation method"
   authors: "with Zhongjie Zhou, Bao Zhao & Guojun Liao"
   venue: "SIAM Journal on Imaging Sciences"
@@ -38,11 +31,11 @@
 
 - title: "A generalized alternating NGMRES method for PDE-constrained optimization problems governed by transport equations"
   authors: "with Yunhui He"
-  venue: "Journal of Numerical Mathematics"
+  venue: "Journal of Numerical Mathematics, 34(4):685-724, 2026"
   year: 2026
   doi: "https://doi.org/10.1515/jnma-2025-0174"
   arxiv: "https://doi.org/10.48550/arXiv.2510.08782"
-  category: "preprint"
+  category: "journal"
 
 - title: "A unified framework for lifted training and inversion approaches"
   authors: "with Xiaoyu Wang, Alexandra Valavanis, Azhir Mahmood, Martin Benning & Audrey Repetti"
@@ -54,11 +47,18 @@
 
 - title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
   authors: "with German Villalobos & Johann Rudi"
-  venue: "SIAM Journal on Scientific Computing, 48(3):C415-C452, 2025"
-  year: 2025
+  venue: "SIAM Journal on Scientific Computing, 48(3):C415-C452, 2026"
+  year: 2026
   doi: "https://doi.org/10.1137/24M1711480"
   arxiv: "https://doi.org/10.48550/arXiv.2510.14197"
   category: "journal"
+
+- title: "Fast k-means clustering in Riemannian manifolds via Fréchet maps: Applications to large-dimensional SPD matrices"
+  authors: "with Ji Shi, Nicolas Charon, Demetrio Labate & Robert Azencott"
+  venue: ""
+  year: 2025
+  arxiv: "https://arxiv.org/abs/2511.08993"
+  category: "preprint"
 
 - title: "Rare events analysis and computation for stochastic evolution of bacterial populations"
   authors: "with Yingxue Su, Brett Geiger, Ilya Timofeyev & Robert Azencott"
@@ -117,7 +117,7 @@
   category: "journal"
 
 - title: "CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures"
-  authors: "with M. Brunn, N. Himthani, G. Biros & M. Mehl"
+  authors: "with Malte Brunn, Naveen Himthani, George Biros & Miriam Mehl"
   venue: "Journal of Open Source Software, 6(61):3038, 2021"
   year: 2021
   doi: "https://doi.org/10.21105/joss.03038"

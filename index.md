@@ -54,6 +54,7 @@ Information on open positions, graduate and undergraduate advising, and **letter
 <details markdown="1">
 <summary><strong>2026</strong></summary>
 
+- Co-chaired (with R. Morrison and R. Willett) the SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, UT, November 16&ndash;20, 2026 (more info: [programs](/programs/)).
 - Attended the WCCM-ECCOMAS congress in Munich, Germany, July 19&ndash;24, 2026.
 - Co-organized (with R. White (Sandia), L. L. R. Ramirez, and T. Bui-Thanh) a [workshop](https://www.birs.ca/events/2026/5-day-workshops/26w5632) at Casa Matem&aacute;tica Oaxaca, May 31&ndash;June 5, 2026.
 - Attended ILAS26 at Virginia Tech, Blacksburg, VA, May 18&ndash;22, 2026.

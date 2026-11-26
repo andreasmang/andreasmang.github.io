@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 heading: Selected Publications
-description: Selected publications by Andreas Mang, filterable by type and year.
+description: Selected publications by Andreas Mang, filterable by type.
 ---
 
 A more complete list of publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=CJc0_msAAAAJ&hl=en).
@@ -16,18 +16,10 @@ A more complete list of publications can be found on my [Google Scholar profile]
     <button type="button" class="pub-filter" data-filter-type="book" aria-pressed="false">Book</button>
     <button type="button" class="pub-filter" data-filter-type="bookchapter" aria-pressed="false">Chapter</button>
   </div>
-  <label class="pub-year-filter">Year
-    <select id="pub-year-select">
-      <option value="all">All</option>
-      {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
-      {% for y in years %}<option value="{{ y }}">{{ y }}</option>
-      {% endfor %}
-    </select>
-  </label>
 </div>
 
 <ul class="pub-list">
-{% for pub in site.data.publications %}  <li class="pub-item" data-category="{{ pub.category }}" data-year="{{ pub.year }}">{% if pub.authors and pub.authors.size > 0 %}{{ pub.authors }}, {% endif %}<em>{{ pub.title }}</em>.{% if pub.venue != "" %} {{ pub.venue }}.{% endif %}{% if pub.doi %} <a href="{{ pub.doi }}">doi</a>{% endif %}{% if pub.arxiv %} <a href="{{ pub.arxiv }}">arXiv</a>{% endif %} {% if pub.category == "bookchapter" %}<span class="pub-category bookchapter">chapter</span>{% elsif pub.category == "book" %}<span class="pub-category book">book</span>{% else %}<span class="pub-category {{ pub.category }}">{{ pub.category }}</span>{% endif %}</li>
+{% for pub in site.data.publications %}  <li class="pub-item" data-category="{{ pub.category }}">{% if pub.authors and pub.authors.size > 0 %}{{ pub.authors }}, {% endif %}<em>{{ pub.title }}</em>.{% if pub.venue != "" %} {{ pub.venue }}.{% endif %}{% if pub.doi %} <a href="{{ pub.doi }}">doi</a>{% endif %}{% if pub.arxiv %} <a href="{{ pub.arxiv }}">arXiv</a>{% endif %} {% if pub.category == "bookchapter" %}<span class="pub-category bookchapter">chapter</span>{% elsif pub.category == "book" %}<span class="pub-category book">book</span>{% else %}<span class="pub-category {{ pub.category }}">{{ pub.category }}</span>{% endif %}</li>
 {% endfor %}</ul>
 
 <p class="pub-empty" hidden>No publications match the selected filters.</p>
@@ -35,18 +27,14 @@ A more complete list of publications can be found on my [Google Scholar profile]
 <script>
 (function () {
   var typeBtns = Array.prototype.slice.call(document.querySelectorAll('.pub-filter'));
-  var yearSel = document.getElementById('pub-year-select');
   var items = Array.prototype.slice.call(document.querySelectorAll('.pub-item'));
   var empty = document.querySelector('.pub-empty');
   var curType = 'all';
 
   function apply() {
-    var curYear = yearSel ? yearSel.value : 'all';
     var visible = 0;
     items.forEach(function (it) {
-      var okType = curType === 'all' || it.getAttribute('data-category') === curType;
-      var okYear = curYear === 'all' || it.getAttribute('data-year') === curYear;
-      var show = okType && okYear;
+      var show = curType === 'all' || it.getAttribute('data-category') === curType;
       it.hidden = !show;
       if (show) { visible++; }
     });
@@ -64,7 +52,5 @@ A more complete list of publications can be found on my [Google Scholar profile]
       apply();
     });
   });
-
-  if (yearSel) { yearSel.addEventListener('change', apply); }
 })();
 </script>
